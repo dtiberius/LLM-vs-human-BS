@@ -1,0 +1,84 @@
+How a holiday retailer is taking steps towards people-centred AI (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/holiday-retailer-ai/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+Profile
+
+This case study focused on a package holiday retailer with over 500 employees headquartered in the United Kingdom, referred to here as HolidayCo. The people team managed everything from culture and engagement to operations and talent acquisition.
+
+HolidayCo chose to deploy three general-purpose generative AI tools capable of producing text, code and images. While specialist AI tools existed in some teams, this research focused on general-purpose generative AI tools that were available to all employees. To support the research, HolidayCo formed a working group of senior professionals from the people, legal, platform engineering, and digital transformation teams.
+
+Operational context
+
+At the organisational level, the use of generative AI was governed by an AI Use policy drafted in March 2025 to manage the proliferation of tools available to employees. Lacking an overarching strategy, HolidayCo opted for a full rollout of three AI tools rather than a phased pilot. This was a tactical move to mitigate 'shadow' AI risks, where employees used personal accounts that endangered company data.
+
+While AI governance was focused on data privacy and security, no formal cost-benefit analysis had been conducted. Furthermore, the people team was not yet involved in the core decision-making for these technologies when IFOW began engaging with HolidayCo. This left a significant gap in how HolidayCo approached people-centred outcomes such as AI literacy and job redesign.
+
+Challenge
+
+HolidayCo struggled to maintain a unified approach while keeping pace with rapid AI advancements. The working group described the landscape as the 'wild west' or as a 'minefield', noting a rise in workforce anxiety around job security and skill development. Beyond technical concerns, there was an underlying fear that AI might erode human connection, with some fearing that employee interactions could eventually be replaced with 'AI-to-AI' workflows.
+
+These workplace relationship concerns were compounded by a lack of internal clarity. In-depth interviews revealed that employees remained unsure of specific tool capabilities or how to embed them to improve work processes. Because efforts remained siloed and the organisation lacked direct insight into employee perceptions, leaders were left with major information gaps. Without a structured programme to bridge these silos, HolidayCo had no clear direction on how to manage the broader opportunities or risks.
+
+What they did
+
+In response to these challenges, the working group identified several critical areas that needed immediate attention. They recognised a significant gap in foundational learning, which prevented the workforce from effectively integrating AI into their daily work. To address this, the working group prioritised cross-functional collaboration to move beyond technical silos. This shift was meant to strengthen workforce engagement and cultivate innovation around pressing business challenges.
+
+To bridge information gaps and set a clear direction, IFOW and the working group designed a workshop together to listen directly to stakeholders from across the organisation and break silos. Fourteen employees of different seniorities and from different teams participated in the workshop facilitated by IFOW. This included employees from the people, finance, legal, operations, platform engineering, content, and digital transformation teams.
+
+It was the first time HolidayCo had brought together employees in this way to explore the implications of generative AI tools at work. The workshop structure took employees through the first four stages of IFOW's 6Rs framework: 'Reveal', 'Reflect', 'Reimagine', 'Realise'. To set the scene, HolidayCo colleagues shared two short demos showing how AI was being used to address the organisation's challenges. This enabled colleagues to learn how other teams navigated AI opportunities and challenges.
+
+Through the workshop, employees participated in activities to identify their goals, enablers and blockers, and possible short- to medium-term solutions around AI.
+
+When looking at goals, employees identified that AI use at HolidayCo must:
+
+- Protect colleague connection. Safeguard human connection and relationships at work as AI usage increases, while increasing support through coaching.
+- Enable fulfilling work. Ensure employee expertise and experience are used effectively to create opportunities for greater creativity and autonomy at work.
+- Drive knowledge sharing. Support organisation-wide testing and learning, ensuring communication is clear and consistent.
+- Uphold employment rights. Ensure employees feel valued, protect terms and conditions, and offer opportunities for reskilling and upskilling.
+- Maximise efficiency. Reduce time on repetitive tasks and accelerate analyses while ensuring outputs remain high quality.
+- Strengthen governance. Maintain appropriate safeguards for data privacy and ensure the interoperability of AI tools with HolidayCo's wider IT systems.
+
+When looking at blockers, employees highlighted barriers that were hindering the organisation:
+
+- Low AI literacy. Low levels of knowledge across teams on how to extract the most value from AI tools in a professional context.
+- Restricted information sharing. A limited flow of communication across the organisation prevented individuals and teams from participating actively in key decisions around AI integration.
+- Anxiety over job security. Significant uncertainty among non-managerial employees regarding the long-term impacts of AI on both job quality and their future employment.
+
+When looking at enablers, to overcome these blockers, employees highlighted existing strengths that could support the organisation:
+
+- An established openness to change. An encouraging attitude toward digital transformation ensured the organisation was culturally prepared to explore AI opportunities.
+- People-centred values. A supportive culture that aligned naturally with employee goals for a human-led approach to AI.
+- Rigorous IT security. Existing rigorous IT security and safety protocols laid a strong foundation for secure AI implementation.
+
+When looking at possible solutions, employees worked together to mind map 11 possible solutions to address the blockers. Ideas centred around improving knowledge sharing, such as running drop-in sessions, lightning demos, a champions network, job shadowing and job swapping.
+
+Following the workshop, the working group decided the best way to oversee these solutions was to expand the remit of HolidayCo's existing AI working group. Historically this group had served as an informal space for technical employees to explore different AI applications. By expanding this group's membership and focus to include the people aspects of change, HolidayCo created a more holistic approach to its AI roadmap. This joined-up strategy linked the technical workstream with essential people workstreams such as training, communication and employee participation.
+
+Outcomes
+
+By bringing together colleagues from various seniorities and teams, HolidayCo made significant progress in driving cross-functional collaboration. The co-designed workshop moved the conversation from a narrow technical focus on access and functionality, shedding light on wider organisational design and workforce readiness needed for success.
+
+The impact of this collaborative approach was captured by a working group member: "I think this process has hugely helped us cross-functionally collaborate, progress the agenda together, and knowing it's not just a tech agenda, I feel like we've done so much just through getting together and talking about this, that we may not have done before."
+
+By expanding the remit of the existing AI working group, HolidayCo secured the foundation to develop a comprehensive organisation-wide roadmap. This refreshed approach aimed to:
+
+- Unify voices across the organisation to ensure all teams are heard.
+- Foster learning by offering dedicate spaces for training and peer-to-peer knowledge sharing.
+- Align communication by centralising internal messaging around change management.
+- Monitor impact by establishing ways to understand how AI integration is changing the nature of work for employees.
+
+This shift addresses a critical gap identified by a working group member: "There's nothing that's aligned at the moment. We might have lots of different workstreams running separately, but no way of linking them, no way of thinking about the change, the impacts, the risks. And almost measuring the success of all the things that we're doing."
+
+To put these aims into practice, the renewed AI working group will establish a formal structure consisting of:
+
+- A core dedicated team to feed actionable insights directly into their AI Risk and Governance Committee.
+- Clear objectives with specific Objectives and Key Results (OKRs) to measure the group's progress.
+- Three distinct pathways featuring AI-related content and activities tailored to basic, intermediate and advanced competency levels. These would be employee-led and be supported through the new AI champions' network.
+
+Learning points
+
+- Adopt a holistic strategic approach. Organisational plans for AI must move beyond the narrow concerns of data privacy and security. A successful strategy encompasses broader governance, dedicated learning pathways and effective internal communications programmes across the organisation.
+- Prioritise cross-functional representation. Decision-making should strive for diverse expertise that includes a dedicated people lens. This perspective – whether by a people professional or another employee representing the workforce interest – is essential to expertly call out and address specific AI risks and opportunities.
+- Cultivate inclusive spaces for innovation. Create interactive forums where employees of all seniorities can meaningfully shape how AI is introduced and used is essential for building trust. This collaborative approach fosters participatory innovation that carries support from the workforce.
+- Implement a systemic reflection process. Apply a systemic reflection process like IFOW's 6Rs framework or recognised international AI standards. Doing so ensures AI-driven changes are effectively diagnosed and evaluated at every level of the organisation.

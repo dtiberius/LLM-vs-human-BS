@@ -1,0 +1,29 @@
+Data appendix for brief 05 (CIPD/YouGov survey, 14 January–3 February 2026; total sample 1,342 people professionals and business leaders. Figures reconstructed from the two CIPD articles reporting the survey; interpretation removed.)
+
+Sub-samples: HR professionals 556; HR leaders 97; senior leaders 353.
+
+Confidence in skills to support AI adoption (% agree):
+- HR leaders confident in ethical data use: 68%
+- HR leaders confident in challenging decisions that could negatively affect the workforce: 67%
+- HR professionals confident in learning how to use AI tools: 67%
+- HR professionals confident in understanding AI tools' limitations: 64%
+- HR leaders confident estimating future workforce needs arising from AI: around one third
+- HR leaders confident designing reskilling pathways: 40%
+- HR leaders confident leading job redesign: 46%
+- Senior leaders: relatively high confidence in identifying opportunities for AI and balancing innovation with risk; lower confidence in understanding legal responsibilities and communicating AI strategy clearly (no figures given).
+
+Reported impact of AI on workers' job performance, by self-assessed capability (% reporting improved job performance):
+- HR leaders with higher confidence in these skills: close to 9 in 10
+- HR leaders with lower confidence: around half (many reporting little or no impact)
+- Same directional pattern among senior leaders and HR practitioners (no figures given).
+
+Stage of AI adoption:
+- Around 45% of organisations report AI use is still ad hoc or experimental; only a small minority have fully integrated AI into core operations.
+- Around 42% of organisations experimenting with AI fall into the lowest organisational readiness group.
+- Among advanced adopters, over 80% report both job redesign and reskilling activity.
+- Organisations at ad hoc/experimental stages are less likely to report performance improvements; where AI is integrated into workflows and business processes, reported improvements are much higher, particularly where HR and leadership capability is stronger (no figures given).
+
+Expected impact of AI on headcount in next 12 months:
+- Among respondents with lower confidence in the skills: around 7 in 10 expect no impact on headcount.
+- Senior leaders expecting no impact: 73% (lower confidence) vs 47% (higher confidence), with a notable increase in those anticipating growth.
+- HR leaders show the same direction (no figures given).

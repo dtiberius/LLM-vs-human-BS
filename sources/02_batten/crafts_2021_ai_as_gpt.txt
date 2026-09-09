@@ -1,0 +1,939 @@
+Artificial Intelligence as a general-purpose technology: an historical
+perspective
+Nicholas Crafts
+
+Publication date
+23-09-2021
+
+Licence
+This work is made available under the Copyright not evaluated licence and should only be used in accordance
+with that licence. For more information on the specific terms, consult the repository record for this item.
+
+Document Version
+Accepted version
+
+Citation for this work (American Psychological Association 7th edition)
+Crafts, N. (2021). Artificial Intelligence as a general-purpose technology: an historical perspective (Version 1).
+University of Sussex. https://hdl.handle.net/10779/uos.23482037.v1
+
+Published in
+Oxford Review of Economic Policy
+
+Link to external publisher version
+https://doi.org/10.1093/oxrep/grab012
+
+
+
+
+Copyright and reuse:
+This work was downloaded from Sussex Research Open (SRO). This document is made available in line with publisher policy
+and may differ from the published version. Please cite the published version where possible. Copyright and all moral rights to the
+version of the paper presented here belong to the individual author(s) and/or other copyright owners unless otherwise stated. For
+more information on this work, SRO or to report an issue, you can contact the repository administrators at sro@sussex.ac.uk.
+Discover more of the University’s research at https://sussex.figshare.com/
+               Artificial Intelligence as a General-Purpose Technology:
+                                 an Historical Perspective
+
+
+
+
+                                           Nicholas Crafts
+                                          University of Sussex
+
+
+
+                                             February 2021
+
+
+
+
+                                                Abstract
+
+This paper looks at the impact on productivity of general-purpose technologies such as steam,
+electricity and ICT. It finds they had big effects but only with a lag which was substantial in the first
+two cases. The experience of the First Industrial Revolution is explored and it is found that this is not
+a template for a general-purpose technology having a major adverse effect on workers’ living
+standards. The essence of that industrial revolution was not rapid productivity growth in the short
+run but the ‘invention of a new method of invention’ which increased technological progress in the
+long run. Since artificial intelligence is potentially a general-purpose technology that raises the
+productivity of research and development, it may be the basis for a Fourth Industrial Revolution.
+
+Keywords: artificial intelligence; general purpose technology; industrial revolution; method of
+invention; total factor productivity growth
+
+JEL Classification: N12; N13; O31; O32; O47
+
+Acknowledgements: I am grateful to Ryland Thomas for clarification of some aspects of the Thomas-
+Dimsdale spreadsheet, to Robert Allen and Jacob Weisdorf for helpful discussions relating to the
+British industrial revolution, and to Sascha Becker, Mirko Draca and Daniel Sgroi for help with my
+thinking about computing power. Thanks also to Emily Jones, my discussant, who made very useful
+comments. The usual disclaimer applies.
+    I.      Introduction
+A General Purpose Technology (GPT) has been defined as ‘a single generic technology, recognizable
+as such over its whole lifetime, that initially has much scope for improvement and eventually comes
+to be widely used, to have many uses, and to have many spillover effects’ (Lipsey et al., 2005, p. 98).
+As such, it can be expected to be pervasive and to have a significant impact on aggregate productivity
+growth, possibly for a long period of time and probably after an initial lag. The classic examples are
+typically considered to be steam, electricity, and information and communications technologies (ICT).
+Growth accounting is one way to estimate the productivity impact of these GPTs (section II).
+
+Quite possibly, Artificial Intelligence (AI) will eventually also be seen as a classic GPT. Indeed, ‘techno-
+optimists’ would argue that today’s productivity paradox of excitement about AI and robotics
+combined with slow productivity growth is explained by the delay before the potential of this new
+GPT is realised (Brynjolfsson et al., 2019). Growth accounting estimates for earlier GPTs show that
+their impact on productivity takes time to develop.
+
+At the same time, new technologies are feared by some for the pressure that may be put on the labour
+market with adverse implications for workers’ living standards. British industrialization in the early
+19th century is often seen as a prime example of such an outcome. It is well-known that real wages
+increased very slowly during this period of acceleration in technological progress which is often seen
+as an era when the share of wages in national income was squeezed in an early example of workers
+being replaced by machines. Informed by the account of ‘Engels’ Pause’ in Allen (2009), this
+interpretation has attracted renewed interest from economists in the context of worries about the
+impact of AI and robotics on the labour market (Acemoglu and Restrepo, 2019; Frey, 2019). This
+experience is reviewed in section III to see whether it really is a worrying precedent.
+
+Cheerleaders for AI expect it to be a GPT driving a ‘Fourth Industrial Revolution’ (Schwab, 2017).
+Earlier Industrial revolutions are also often thought to be associated with classic GPTs; steam with the
+First Industrial Revolution, electricity with the Second Industrial Revolution, and ICT with the Third
+Industrial Revolution. For an economic historian, however, this does not do justice to the concept of
+an ‘industrial revolution’ which entails a significant change in the methods of generating advances in
+technology rather than faster technological progress and an acceleration in the rate of productivity
+growth per se.
+
+As Alfred North Whitehead famously remarked, ‘the greatest invention of the 19th century was the
+invention of the method of invention’ (1925, p. 120). The First, Second and Third Industrial
+Revolutions each saw improved methods of invention and it is helpful to consider the prospects for
+the impact of AI as a GPT that delivers a Fourth Industrial Revolution in the light of this historical
+experience (section IV). To achieve this, it needs to be not just a GPT but also the invention of a
+method of invention (IMI), as some writers think it may be (Cockburn et al., 2019).
+
+In general, IMIs and GPTs are distinct, as Figure 1 describes. IMIs raise productivity in the production
+of ideas while GPTs raise productivity in the production of goods and services. However, a subset of
+GPTs also provide an IMI and have an important role in increasing the productivity of innovative effort.
+ICT was a case in point. The contribution to productivity growth as an IMI will typically not be
+attributed directly to the GPT by growth accounting but will show up as an increase in total factor
+productivity (TFP) growth in the aggregate economy.
+
+    II.     Implications of Growth Accounting Estimates
+
+
+
+                                                                                                          1
+The conventional approach to estimating the productivity impact of a GPT is through an elaboration
+of traditional neoclassical growth accounting which aims to capture the contributions of growth in
+capital per worker and of the growth of total factor productivity (TFP) on labour productivity growth
+in the production of GDP.
+
+This allows for different types of capital and distinguished separate components of TFP growth as
+follows:
+
+Δ(Y/L)/(Y/L) = αΔ(KO/L)/(KO/L) + βΔ(KGPT/L)/(KGPT/L) + ω(ΔA/A)GPT + φ(ΔA/A)O                                  (1)
+
+This equation decomposes the sources of labour productivity growth into contributions from two
+types of capital, GPT capital and other capital each weighted by their income shares, β and α, and two
+types of TFP growth in the production of GPT equipment and in the rest of the economy each weighted
+by their shares in gross output, ω and φ. Thus, the GPT has impacts on labour productivity growth
+both through a capital-deepening effect and through own TFP growth.
+
+It is also possible that a GPT creates externalities from the use of GPT capital through knowledge
+spillovers. A conventional way to modify Equation (1) to include a term for TFP spillovers is as follows:
+
+    Δ(Y/L)/(Y/L) = αΔ(KO/L)/(KO/L) + βΔ(KGPT/L)/(KGPT/L) + ω(ΔA/A)GPT + φ(ΔA/A)O + γΔ(KGPT/L)/(KGPT/L)
+
+                                                                                                              (2)
+
+where γΔ(KGPT/L)/(KGPT/L), represents the contribution of (unremunerated) TFP spillovers resulting
+from GPT capital deepening but a way has to be found to estimate γ and most studies have chosen to
+omit this item. These TFP spillovers would be counted as part of total TFP growth rather than the
+capital-deepening contribution of GPT capital and if no attempt is made to measure them they would
+accrue as part of φ(ΔA/A)O.
+
+As is suggested by the definition, the impact of a GPT on productivity typically is modest initially but
+then increases over time. This is implied by the arithmetic of growth accounting since β and ω in
+equation (1) will be very small in the early days. At a deeper level, the reasons for the lags include
+improvements to the technology over time which increase its range of applications, reductions over
+time in the quality-adjusted price of the capital equipment in which it is embodied, and the time taken
+to implement complementary investments in organizational change.
+
+Estimates based on the implementation of equation (1) for the three most famous GPTs, namely,
+steam, electricity, and ICT, in the leading economy of the time are displayed in Table 1. To place the
+chronology in perspective, it is worth noting that James Watt’s steam engine was patented in 1769,
+Thomas Edison first distributed electrical power to customers in New York in 1882, and the Intel 4004
+microprocessor was introduced in 1971.
+
+The examples of electricity and steam illustrate some of the reasons why it takes time for the impact
+of GPTs to build up. The big impact of electricity in the United States came in the 1920s about 40 years
+after Thomas Edison first distributed electrical power in New York in 1882. The productivity gains
+came from the redesign of American factories which electricity facilitated but took time to be
+recognized and implemented and were realized through TFP spillovers (David, 1991).1 The impact of
+
+1
+  In principle, unremunerated TFP spillover effects are distinct from the capital-deepening contribution to
+labour productivity growth from investment in new forms of capital goods which embody the GPT. They
+essentially represent externalities, for example, in the form of learning effects which enhance TFP. In practice,
+they are hard to measure and are omitted from nearly all growth accounting studies hence their appearance in
+only one row of Table 4.
+
+                                                                                                                2
+steam power on productivity growth in Britain was negligible prior to 1830 when only 165,000
+horsepower was in use (Crafts, 2004). Even in 1870 about two-thirds of steam power was used in coal
+mining, cotton textiles and metal manufactures (Kanefsky, 1979). The cost effectiveness and diffusion
+of steam power was held back by the high coal consumption of the original low-pressure engines and
+the move to high pressure – which benefited not only factories but railways and steam ships - was not
+generally accomplished until the second half of the 19th century. The science of the steam engine was
+not yet developed and the price of steam power fell very slowly, especially before about 1850.
+
+The estimates in Table 1 reflect delays before the maximum impact of a GPT on productivity growth
+rates. Table 1 reveals both that the impact of ICT was relatively large and also that it came through
+very quickly. ICT was unprecedented in its rate of technological progress. In the context of Solow’s
+productivity paradox – ‘you can see the computer age everywhere except in the productivity statistics’
+- it is worth noting that by historical standards the growth contribution of ICT in the late 1980s when
+Solow made his famous comment was already quite stunning. Arguably, western societies have been
+getting better at exploiting new technological opportunities so that the impacts are felt more quickly.
+This would perhaps not be surprising in the context of superior scientific and technological capabilities,
+greater expenditure on R and D, and more sophisticated capital markets.2
+
+In view of this history, it is quite reasonable to think that we are at the point with AI as a GPT when it
+is early in its lifetime and its significant impact on macroeconomic productivity performance lies in the
+future … but possibly relatively soon compared with the time that it took for steam and electricity to
+make a noticeable difference. This is indeed the argument of Brynjolfsson et al. (2019) who expect
+implementation and restructuring lags but emphasize that machine-learning systems will advance
+rapidly not least because they are designed to improve themselves over time.
+
+If GPTs have major implications for productivity growth, and ‘great inventions’ are the basis of strong
+overall productivity performance (Gordon, 2016), then an interval between them will entail a
+productivity slowdown. A good example of this is taken by the GPT literature to be the hiatus between
+steam and electricity in the later 19th century (Lipsey et al., 1998), echoing the well-known hypothesis
+of Handfield-Jones and Phelps-Brown (1952) to explain the so-called ‘climacteric’ in British economic
+growth. This might be seen as a precedent for a similar slowdown today between the impacts of ICT
+and Artificial Intelligence (AI) on productivity growth.3
+
+Viewing the history (and future) of productivity growth primarily in terms of the waxing and waning
+of GPTs is, however, not warranted, as is suggested by the estimates in Tables 1 and 2. ICT did loom
+very large but while electricity and steam made important contributions to productivity growth, they
+were certainly not dominant. Indeed, the suggestion that the Victorian climacteric was a result of the
+end of the steam age is not borne out by the evidence. The slowdown in trend labour productivity
+growth started in the early 1870s and continued through the 1880s, with a decline from 2.2 per cent
+per year in 1869 to 0.8 per cent by 1890 according to recent estimates in Crafts and Mills (2020) but
+the growth accounting contribution of steam to productivity growth was about the same in 1870 to
+1910 as in 1830 to 1870 (Table 1). As Musson pointed out a long time ago, ‘steam-powered
+mechanization … [was] still proceeding at a tremendous pace … the 1870s did not witness the end of
+
+
+
+
+2
+  Section IV, below, examines the new and improved methods of invention which characterized successive
+‘industrial revolutions’.
+3
+  This idea was put forward by Ben Broadbent, Deputy Governor of the Bank of England, in an interview with
+the Daily Telegraph in 2018.
+
+                                                                                                             3
+the ‘massive application’ of steam power’ (1963, p. 530). Steam horsepower in use rose from 2.1
+million in 1870 to 9.7 million in 1907 (Kanefsky, 1979).
+
+Similarly, the idea that ‘great inventions’ dominated the rise and fall of American productivity growth
+in the twentieth century popularized but not quantified by Gordon (2016) is surely oversold. The
+sectors which embody the technology clusters which he sees as at the heart of the Second Industrial
+Revolution and propelling TFP growth to new heights by the 1940s accounted for only 36 per cent of
+labour productivity growth and 38 per cent of TFP growth in the private domestic economy during
+1899 to 1941 (Bakker et al., 2019).4 Impressive but not by any means the whole story. And, in the
+recent past, the speeding up and slowing down of productivity growth in the United States around the
+turn of the 21st century is only partly (about half) explained by the acceleration and deceleration of
+the ICT contribution (Table 2).
+
+    III.     The First Industrial Revolution
+The term ‘First Industrial Revolution’ is often used to describe economic development in Britain
+between the 1760s and the 1830s. It is well-known that real wages increased very slowly during this
+period of acceleration in technological progress which is often seen as an era when the share of wages
+in national income was under downward pressure in an early example of workers being replaced by
+machines. It should be clear from the previous section, however, that steam-powered productivity
+growth only started to have a significant impact after 1830.
+
+Acemoglu and Restrepo (2019) set out a model where automation has a displacement effect as tasks
+are taken over by machines, which leads to job losses and reduces labour’s share of national income.
+The displacement effect is offset in the long run by productivity and reinstatement effects. The former
+works through employment resulting from the demand created by higher incomes and the latter
+comes from the creation of new tasks in which labour has a comparative advantage over machines,
+which leads to new jobs and a recovery in labour’s share. If the displacement effect dominates the
+reinstatement effect, labour’s share of national income falls and vice versa. Even if in the long run the
+reinstatement effects are larger this may take a long time to materialize. Based on the estimates in
+Allen (2009), Acemoglu and Restrepo (2019) suggest that, although productivity growth accelerated,
+real wages stagnated, and labour’s share fell for a period of 80 years from 1780 at the start of the
+industrial revolution. In other words, for a long time, displacement effects outweighed reinstatement
+effects.
+
+The key diagnostic here is the share of labour in national income. This can be written as wL /pY =
+(w/p)/(Y/L) where w is money wages, p is the GDP deflator, L is labour input and Y is real GDP. When
+this formula is implemented using the new and improved dataset developed by Broadberry et al.
+(2015), labour’s share shows only a very short and modest decline at the beginning of the 19th century,
+as is reported in Table 3.5
+
+
+4
+  Following Gordon (2016) ‘great inventions’ comprise technology clusters around electricity, internal
+combustion engine, re-arranging molecules, and communications & entertainment. The distribution sector
+(which had a large share of value added but which might not be accepted by everyone as qualifying for
+inclusion in this list) accounts for a substantial part of the productivity growth.
+5
+  Allen (2009) used a cost of living index rather than the GDP deflator to make his estimates. This distinction
+matters because in the first half of the 19th century real product wages grew much faster than real consumption
+earnings reflecting differences between the rate of inflation as measured by the GDP deflator and a cost of living
+index. Technological progress had a bigger impact on the former than the latter. Estimates of the GDP deflator
+have only become available since Allen wrote his paper.
+
+
+                                                                                                                4
+The modest increase in labour’s share of national income reported in Table 3 does not mean that the
+displacement effects highlighted by Acemoglu and Restrepo (2019) were absent. On the contrary, for
+some workers the impact of mechanization was devastating. The most notorious example is that of
+the handloom weavers who initially gained a lot from the prior mechanization of spinning but were
+then swept away by the invention of the power loom. They numbered 37,000 in 1780, 240,000 in
+1820 but only 43,000 in 1850 (Allen, 2018). Their money wages were 75d per week in 1770, 276d in
+1805 (the peak year) but were back to 75d by 1830 (Wood, 1910). That said, the overall trajectory of
+the labour market saw a proliferation of new tasks and this was reflected in the expansion of lower-
+middle class occupations (Allen, 2019); 253,000 families (8.6 per cent) were in this group in 1798 but
+649,000 (15.4 per cent) in 1846. However, the redeployment of labour was left to market forces at
+the time and adjustment costs may have been quite high – this is an issue that deserves more research.
+
+The share of profits in GDP rose over time from 17.2 per cent in 1770 to 29.5 per cent in 1860 but this
+was associated with a decline in the share of land rents rather than that of labour. This is not hardly
+surprising in an industrializing economy where capital was being accumulated but agricultural land
+acreage was barely growing. The rate of profit increased but only slowly over most of this period. It
+is, however, fair to say that income inequality described a Kuznets Curve. The Gini coefficient has
+been estimated as 0.53 in 1759, 0.60 in 1898, 0.58 in 1846 and 0.48 in 1867 (Allen, 2019).
+
+As Table 4 shows, the defining characteristic of the First Industrial Revolution is slow growth of labour
+productivity rather than pro-rich growth, especially in the first fifty years. In 1820, real GDP per worker
+had risen by about 16 per cent compared with 1770 and real consumption earnings by about 12 per
+cent. The increase in labour productivity outstripped that of real consumption earnings by a larger
+margin over the period 1770 to 1840 by 44 per cent to 27 per cent. Over the same period real product
+wages increased by 39 per cent so it is not surprising that labour’s share of national income was little
+changed compared with 1770.6
+
+The Industrial Revolution was a time of famous inventions including those of Richard Arkwright, Henry
+Cort, Samuel Crompton, George Stephenson, and James Watt. Prima facie, this ‘wave of invention’
+seems to suggest that TFP growth and labour productivity growth would both speed up dramatically.
+However, the striking feature of the growth accounting estimates in Table 5 is that TFP growth was
+modest rather than spectacular, especially before 1830; the famous inventions did not promote a
+dramatic acceleration of TFP growth during the industrial revolution.7
+
+How can the paradox of famous inventions but modest TFP growth be resolved? First, the impact of
+technological progress was very uneven. Agriculture and most of the service sector other than
+transport was largely unaffected. Sectors which we think of as the embodiment of the industrial
+revolution, namely, textiles, metals and machine-making accounted for less than a third of industrial
+employment – or 13.4 per cent of total employment - even in 1851 (Shaw-Taylor, 2009), while much
+industrial employment was still in ‘traditional’ sectors. Second, the process of technological advance
+was characterized by many incremental improvements and learning to realize the potential of the
+original inventions. This took time in an era where scientific and technological capabilities were still
+very weak by later standards. Steam technology is an excellent example and its impact was delayed
+until after 1830.
+
+
+
+6
+  The estimates of real consumption earnings taken from the compilation in Thomas and Dimsdale (2017) are
+based on Feinstein (1998) and Allen (2007).
+7
+  The estimates of TFP growth in Table 5 do not allow for land inputs. Taking account of them would raise TFP
+growth during the Industrial Revolution slightly but would not change the basic picture, see Crafts (2020).
+
+                                                                                                                5
+Looking at the industrial revolution with a view to finding a precedent for traumatic labour market
+shocks from labour-saving technological progress in the manner of Frey (2019) is misguided. Labour’s
+share of national income did not decrease significantly as displacement effects were offset by
+reinstatement effects. The steam age only came quite late in the day (cf. Table 1). The story of the
+industrial revolution is surely not one of a new GPT boosting productivity growth at the expense of a
+big shift in the distribution of income as is the current fear about AI.
+
+    IV.      Industrial Revolutions as the Invention of a New Method of Invention
+As we have seen, the industrial revolution is not a template for studying the impact of technological
+change that gives a rapid and substantial boost to productivity at the expense of a significant and
+prolonged decline in labour’s share of national income. The experience of the industrial revolution is
+more one of productivity paradox than pro-rich growth.8 Nevertheless, it does mark a transition to
+modern economic growth based on a new era of technological progress.
+
+The concept of the industrial revolution as essentially the invention of a new method of invention
+which for the first time could deliver sustained technological progress is an idea which has been
+documented in detail by Mokyr (2009). The new method of invention was based on systematic
+empiricism and experimentation that established what worked and which accumulated and made
+accessible useful knowledge which could promote further technological advance.
+
+This interpretation fits naturally into the basic model of endogenous growth outlined by Carlin and
+Soskice (2006) which is represented in Figure 2. Here the equilibrium rate of technological progress
+is determined by the intersection of the Schumpeter and Solow lines (see the appendix). The former
+can be written as:
+
+X = λσq                                                                                                (3)
+
+where the rate of technological progress, x, depends on the amount of innovative effort or research
+intensity, q, the probability of successful innovation per unit of effort, λ, and the extent to which each
+innovation raises productivity, σ. Innovative effort increases with market size, inter alia, hence the
+upward slope of the Schumpeter line.
+
+The implications of the new method of invention of the First Industrial Revolution were to increase
+each of the variables on the right-hand side of (3). The probability of successful innovation was raised
+by the availability and accessibility of more knowledge, this encouraged more innovative effort since
+expected returns increased, and the impact of innovations was enhanced by a greater capability of
+improving initial designs and through more effective diffusion of new technology.
+
+Central to this accumulation and diffusion of an evidence-based method of invention were ‘knowledge
+access institutions’ (KAIs), organizations whose objectives were to produce and disseminate scientific
+and technological knowledge, of which the first was the Royal Society (1660) and which included the
+Lunar Society (1765), the Manchester Literary and Philosophical Society (1781), the British Association
+for the Advancement of Science (1831) and Mechanics Institutes from 1823. The total number of KAIs
+was only 3 in 1761 but had risen to 1014 by 1851. KAIs had a strong causal impact on patenting in
+their localities (Dowey, 2017). A further important component was the spread of skills in applied
+mathematics which underpinned measurement and calculation (Kelly and O’Grada, 2020). Here a key
+
+
+
+8
+ Steam could be thought of as a precursor of Solow’s ICT productivity paradox except that you couldn’t see
+the steam age everywhere except in the productivity statistics in 1800.
+
+                                                                                                             6
+implication was the development of machine tools that were required to convert inventions into
+working machinery.
+
+The First Industrial Revolution was based on empiricism rather than scientific understanding. The
+example of steam-engine technology is a good case in point. Nuvolari and Verspagen (2009) detail
+the progress made in raising fuel efficiency in Cornish pumping engines via detailed observation and
+reporting of the performance of different designs. Systematic data collection was used as a substitute
+for theoretical understanding. An important implication was that this localized technological learning
+did not diffuse to other locations and branches of industry.
+
+It is important, however, not to exaggerate what was achieved in the First Industrial Revolution. A
+striking feature of the estimates in Table 5 is the weakness of TFP growth in the period 1873 to 1913.
+When growth accounting is conducted using hours worked and identifying a separate contribution
+from labour quality, TFP growth averaged 0.1 per cent per year. It is not correct to see the slowdown
+in TFP growth as a blip at the start of the twentieth century as is sometimes claimed (Crafts and Mills,
+2020). As with the example of steam engines discussed above, the slowdown in TFP growth after 1873
+is indicative of the limitations of the method of invention characteristic of the First Industrial
+Revolution.
+
+The Second Industrial Revolution is a term conventionally applied to the late 19th and early 20th
+centuries, say, 1870 to 1914. Again, it is useful to recognise that this is also an episode of a major
+change in the technology of developing new technology. Again, this entailed a step change in λ, σ,
+and q. The Second Industrial Revolution which might be defined as the invention of another (superior)
+method of invention, in this case based on applied science and the innovation of the industrial
+research and development (R & D) laboratory in contrast to the Industrial revolution which had little
+or no scientific base.9 Thomas Edison established his first laboratory in Menlo Park in 1876. The rise
+of electricity as a GPT was an important aspect of technological progress resulting from the Second
+Industrial Revolution.10
+
+By 1918, 665 R & D laboratories had been established in American manufacturing (Mowery and
+Rosenberg, 1989) and by 1930 about half of all patents granted in the United States went to firms and
+half to independent inventors; the latter had accounted for about 95 per cent of patents in 1880
+(Nicholas, 2010). Whereas only 12 per cent of ‘great inventor’ patents were granted to people with
+science or engineering training in pre-1845 birth cohorts in the United States for the 1866-1885 cohort
+this had risen to 60 per cent (Khan and Sokoloff, 2006). As with the First Industrial Revolution, TFP
+growth went to a new level averaging 1.1 per cent per year during 1899-1929 (Bakker et al., 2019).11
+
+
+
+
+9
+  Or in Mokyr’s words, ‘It created a chemical industry with no chemistry, an iron industry without metallurgy,
+power machinery without thermodynamics’ (Mokyr, 1999, p.219).
+10
+   Gordon (2016) lists several other ‘great inventions’ associated with the period of the Second Industrial
+Revolution including the internal combustion engine and chemical engineering.
+11
+   This estimate is arrived at after making a big deduction from crude TFP growth, which averaged 1.7 per cent
+per year, for the contribution of growth in labour quality. An earlier much-cited estimate by Kendrick (1961)
+puts TFP growth at 1.4 per cent per year during 1899 to 1929. The national innovation system in the UK was
+much less successful in exploiting the potential of the Second Industrial Revolution.
+
+                                                                                                             7
+The Third Industrial Revolution is a term often used to refer to the period from the 1960s to the 2000s
+when computer science came of age. It encompassed rapid development of computer hardware and
+software from the mainframe, through the PC to the Internet (Schwab, 2017). A key characteristic of
+ICT is that it is both a knowledge technology and a GPT (Mokyr, 2002). As an IMI, ICT not only
+significantly reduced the access costs of knowledge but also provided a new technology for innovation
+reflected in a big increase in the share of patent citations going to software together with significantly
+more patents per R & D dollar as software intensity increased (Branstetter et al., 2019).
+
+Nordhaus (2007) documents the massive fall in computing costs over the second half of the 20th
+century. Total costs of computation in 2006 dollars per million units of computer power fell from 25.7
+in 1940-9 to 0.000592 in 1970-9 and 0.000000000137 in 2000-6. Xavier Sala-i-Martin (1997) wrote a
+paper based on 4 million regressions which would have taken his computer about 33 hours.12 This
+contrasts with 40 hours for Milton Friedman to run one regression in the late 1940s (Friedman and
+Schwartz, 1991).13 This would suggest that the usual positive effects on the Schumpeter line and
+indeed the contribution to TFP growth of non-ICT sectors of the American economy increased from
+0.14 per cent per year in 1974-95 to 0.89 per cent per year in 1995-2004 (Byrne et al., 2013) as total
+TFP growth (including ICT sectors as well) rose from 0.50 per cent to 1.61 per cent per year. But, quite
+unlike the Second Industrial Revolution, this was not sustained.
+
+Similarly, AI, notably through deep learning, may be the basis for a Fourth Industrial Revolution as a
+GPT which is also an IMI and this may ultimately be its biggest contribution to productivity growth
+(Cockburn et al., 2019). It can take data analysis to a new level and ‘could become the world’s most
+effective research assistant’ (Mokyr, 2018, p. 23).14 Royal Society (2019) highlights many research
+areas where AI may become a key tool. An obvious one is the discovery of new drugs. Recent
+breakthroughs include Halicin, the new antibiotic revealed by MIT in February 2020 and the solution
+of the ‘protein-folding problem’ by Deepmind in November 2020. It should be noted that if the impact
+of AI is to raise TFP growth across the economy through its role as a new technology for improving
+technology this contribution to growth would not be attributed to AI by conventional growth
+accounting calculations of the type reported in Table 1 but would be recorded as higher ‘other TFP
+growth’.
+
+It has recently been suggested that the productivity of R and D is decreasing; in terms of Figure 2, the
+Schumpeter line is shifting down. If this is the case, it could reflect the picking of all the low-hanging
+fruit (Gordon, 2016) or an increasing burden of knowledge (Jones, 2009). Bloom et al. (2020) provide
+some evidence for the hypothesis that ideas have been getting harder to find; at the macro level they
+suggest that it is consistent with the fact that US TFP growth has slowed down markedly relative to R
+& D expenditure since the 1930s.15 This conclusion is controversial but, if this is a correct
+interpretation of recent economic history, AI may be an antidote (Agrawal et al., 2019): it may mean
+that ideas become easier to find – as they did during the First Industrial Revolution.
+
+
+12
+   Sala-i-Martin states in the paper that his computer could run about 2000 of his regressions per minute.
+13
+   Backhouse and Cherrier (2017) review a wide array of implications of massively greater computing power for
+economists’ research and conclude that it transformed economics in the course of the last 30 or 40 years.
+14
+   Textual analysis using machine learning has already become a major research tool in economics (Gentzkow
+et al., 2019). This is exemplified by a recent paper inferring levels of happiness in the population over the last
+200 or so years from text in digitized books (Hills et al., 2019). The automated analysis was technologically
+infeasible 10 years ago and if performed manually would have taken at least 80 billion person hours.
+15
+   Inter alia, it is quite possible that the slowdown in TFP growth reflects a lack of economic dynamism (Dekker
+et al., 2017) perhaps linked to weaker competition in the American economy (Philippon, 2019). See Crafts
+(2018) for a review of the evidence.
+
+                                                                                                                8
+    V.       Conclusions
+It typically takes time before a GPT has a substantial impact on productivity. The technology improves,
+complementary investments and innovations are made, businesses are re-organised and learning
+accrues. The examples of steam, electricity and ICT illustrate that time-lags are to be expected. It is
+quite plausible that this will also be the experience with AI as it progresses. If AI fulfils its promise, it
+will alleviate the current productivity slowdown. Nevertheless, many other things matter for
+productivity performance as well as the arrival of a new GPT. Optimism over AI is no reason to neglect
+supply-side policy reforms, for example, to address the trend to weaker competition in the American
+economy.
+
+If AI does raise productivity substantially in due course, the dark side may be the disappearance of
+many jobs with significant downward pressure on real wages and labour’s share of national income.
+The First Industrial Revolution is sometimes viewed as a worrying example of such an experience as
+mechanization transformed industry. Such a pessimistic interpretation is, however, misplaced. This
+period was one of slow productivity growth and no big shift in income distribution; while there was
+displacement of workers by machines, at the same time new tasks proliferated. The key policy
+implication is that policies to reduce adjustment costs and facilitate redeployment of workers will be
+important to underpin reinstatement effects that can offset the initial displacement effects.
+
+A useful way to conceptualize an industrial revolution is to see it as the invention of a new method of
+invention which has the potential to raise the rate of productivity growth. Looked at in this way, AI
+may be the basis for a Fourth Industrial Revolution and a major channel for its impact as a GPT may
+be through raising the productivity of R & D. This would be especially welcome if, as some economists
+believe, ideas have been harder to find in recent times.
+
+
+
+
+                                                                                                           9
+.
+
+References
+Acemoglu, D. and Restrepo, P. (2019), “Artificial Intelligence, Automation and Work”, in A. Agrawal,
+   J. Gans and A. Goldfarb (eds.), The Economics of Artificial Intelligence: an Agenda. Chicago:
+   University of Chicago Press, 197-236.
+
+Agrawal, A., McHale, J. and Oettl, A. (2019), “Finding Needles in Haystacks: Artificial Intelligence and
+   Recombinant Growth”, in A. Agrawal, J. Gans and A. Goldfarb (eds.), The Economics of Artificial
+   Intelligence: an Agenda. Chicago: University of Chicago Press, 149-174.
+
+Allen, R. C. (2009), “Engels’ Pause: Technical Change, Capital Accumulation, and Inequality in the
+    British Industrial Revolution”, Explorations in Economic History, 46, 418-435.
+
+Allen, R.C. (2018), “The Hand-Loom Weaver and the Power Loom: a Schumpeterian Perspective”,
+    European Review of Economic History, 22, 381-402.
+
+Allen, R.C. (2019), “Class Structure and Inequality during the Industrial Revolution: Lessons from
+    England’s Social Tables, 1688-1867”, Economic History Review, 72, 88-125.
+
+Backhouse, R. and Cherrier, B. (2017), “’It’s Computers Stupid!’ The Spread of Computers and the
+   Changing Roles of Theoretical and Applied Economics”, History of Political Economy, 49, S103-
+   S126.
+
+Bakker, G., Crafts, N. and Woltjer, P. (2019), “The Sources of Growth in a Technologically Progressive
+   Economy: the United States, 1899-1941”, Economic Journal, 129, 2267-2294.
+
+Bloom, N., Jones, C. I., Van Reenen, J., and Webb, M. (2020). ‘Are Ideas Getting Harder to Find?’,
+    American Economic Review, 110, 1104-1144.
+Branstetter, L.G., Drev, M. and Kwon, N. (2019), “Get with the Program: Software-Driven Innovation
+   in Traditional Manufacturing”, Management Science, 65, 541-558.
+Broadberry, S., Campbell, B., Klein, A., Overton, M. and van Leeuwen, B. (2015), British Economic
+   Growth, 1270-1870. Cambridge: Cambridge University Press.
+
+Brynjolfsson, E., Rock, D. and Syverson, C. (2019), “Artificial Intelligence and the Modern Productivity
+   Paradox: a Clash of Expectations and Statistics”, in A. Agrawal, Gans, J. and Goldfarb, A. (eds.),
+   The Economics of Artificial Intelligence: an Agenda. Chicago: University of Chicago Press, 23-57.
+
+Byrne, D.M., Oliner, S.D. and Sichel, D.E. (2013), “Is the Information Technology Revolution Over?”,
+   International Productivity Monitor, 25, 20-36.
+
+Carlin, W. and Soskice, D. (2006), Macroeconomics: Imperfections, Institutions and Policies. Oxford:
+   Oxford University Press.
+
+Clark, G. (2002), “Land Rental Values and the Agrarian Economy: England and Wales, 1500-1914”,
+   European Review of Economic History, 6, 281-308.
+
+Cockburn, I.M., Henderson, R. and Stern, S. (2019), “The Impact of Artificial Intelligence on
+   Innovation: an Exploratory Analysis”, in A. Agrawal, J. Gans and A. Goldfarb (eds.), The Economics
+   of Artificial Intelligence: an Agenda. Chicago: University of Chicago Press, 115-146.
+
+Crafts, N. (2004), “Steam as a General-Purpose Technology: a Growth Accounting Perspective”,
+   Economic Journal, 114, 338-351.
+
+                                                                                                      10
+Crafts, N. (2018), “The Productivity Slowdown: Is It the ‘New Normal?”, Oxford Review of Economic
+   Policy, 34, 443-460.
+
+Crafts, N. (2020), “Slow Real Wage Growth during the Industrial Revolution: Productivity Paradox or
+   Pro-Rich Growth?”, CEPR Discussion Paper No. 14762.
+
+Crafts, N. (2021), “The Sources of British Economic Growth since the Industrial Revolution: Not the
+   Same Old Story”, Journal of Economic Surveys (2020), forthcoming.
+
+Crafts, N. and Mills, T.C. (2020), “Sooner than You Think: the Pre-1914 UK Productivity Slowdown
+   was Victorian not Edwardian”, European Review of Economic History, 24, 736-748.
+
+Crafts, N. and Woltjer, P.J. (2021), “Growth Accounting in Economic History: Findings, Lessons, and
+   New Directions”, Journal of Economic Surveys, forthcoming.
+
+David, P. A. (1991), “Computer and Dynamo: the Modern Productivity Paradox in a Not-Too-Distant
+   Mirror”, in OECD, Technology and Productivity: the Challenge for Economic Policy, 315-347. Paris:
+   OECD.
+
+Dekker, R., Haltiwanger, J., Jarmin, R.S. and Miranda, J. (2017), “Declining Dynamism, Allocative
+   Efficiency, and the Productivity Slowdown”, Federal Reserve Board Finance and Economics
+   Discussion Paper No. 2017-019.
+
+Dowey, J. (2017), “Mind Over Matter: Access to Knowledge and the British Industrial Revolution”.
+  Unpublished Ph.D. thesis, London School of Economics.
+
+Feinstein, C. H. (1988), “National Statistics, 1760-1920”, in C. H. Feinstein and S. Pollard (eds.),
+   Studies in Capital Formation in the United Kingdom, 1750-1920. Oxford: Clarendon Press, 259-
+   471.
+
+Frey, C.B. (2019), The Technology Trap: Capital, Labor and Power in the Age of Automation.
+   Princeton: Princeton University Press.
+
+Friedman, M. and Schwartz, A.J. (1991), “Alternative Approaches to Analyzing Economic Data”,
+    American Economic Review, 81, 39-49.
+
+Gentzkow, M., Kelly, B. and Taddy, M. (2019), “Text as Data”, Journal of Economic Literature, 57,
+  535-574.
+
+Gordon, R.J. (2016), The Rise and Fall of American Growth. Princeton: Princeton University Press.
+
+Hills, T., Proto, E., Seresinhe, C. and Sgroi, D. (2019), “Analysis of National Subjective Well-Being
+    using Millions of Digitized Books”, Nature Human Behaviour, 15 October.
+
+Jones, B. (2009), “The Burden of Knowledge and the ‘Death of the Renaissance Man’: Is Innovation
+   Getting Harder?”, Review of Economic Studies, 76, 283-317.
+
+Kanefsky, J. (1979), “The Diffusion of Power Technology in British Industry”. Unpublished Ph. D.
+   Dissertation, University of Exeter.
+
+Kelly, M. and O’Grada, C. (2020), “Connecting the Scientific and Industrial Revolutions: the Role of
+   Practical Mathematics”, UCD Centre for Economic Research Working Paper No. 20/17.
+
+Kendrick, J. W. (1961), Productivity Trends in the United States. Princeton, NJ.: Princeton University
+   Press.
+
+
+                                                                                                        11
+Khan, B.Z. and Sokoloff, K.L. (2006), “Institutions and Technological Innovation during Early
+   Economic Growth: Evidence from the Great Inventors of the United States, 1790-1830”, in T.
+   Eicher and C. Garcia-Penalosa (eds.), Institutions and Economic Growth. Cambridge, Mass.: MIT
+   Press, 123-158.
+Lipsey, R. G., Bekar, C.T. and Carlaw, K.I. (1998), “The Consequences of Changes in GPTs”, in E.
+   Helpman (ed.), General Purpose Technologies and Economic Growth. Cambridge, Mass.: MIT
+   Press, 193-218.
+
+Lipsey, R.G, Carlaw, K.I. and Bekar, C.T. (2005), Economic Transformations: General Purpose
+   Technologies and Long-Term Economic Growth. Oxford: Oxford University Press.
+
+Mokyr, J. (1999), “The Second Industrial Revolution, 1870-1914”, in V. Castronovo, ed., Storia dell’
+  Economia Mondiale, vol.3. Rome: Laterza, 219-245.
+
+Mokyr, J. (2002), The Gifts of Athena: Historical Origins of the Knowledge Economy. Princeton:
+  Princeton University Press.
+
+Mokyr, J. (2009), The Enlightened Economy: an Economic History of Britain 1700-1850. New Haven:
+  Yale University Press.
+
+Mokyr, J. (2018), “The Past and Future of Innovation: Some Lessons from Economic History”,
+  Explorations in Economic History, 69, 13-26.
+
+Mowery, D. and Rosenberg, N. (1989), Technology and the Pursuit of Economic Growth. Cambridge:
+  Cambridge University Press.
+
+Musson, A.E. (1963), “British Industrial Growth during the ‘Great Depression’ (1873-96): Some
+  Comments”, Economic History Review, 15, 529-533.
+
+Nicholas, T. (2010), “The Role of Independent Invention in U. S. Technological Development, 1880-
+   1930”, Journal of Economic History, 70, 57-82.
+
+Nordhaus, W.D. (2007), “Two Centuries of Productivity Growth in Computing”, Journal of Economic
+   History, 67, 128-159.
+
+Nuvolari, A. and Verspagen, B. (2009), “Technical Choice, Innovation and British Steam Engineering,
+  1800-1850’, Economic History Review, 62, 685-710.
+
+Phelps-Brown, E.H. and Handfield-Jones, S.J. (1952), “The Climacteric of the 1890s: a Study in the
+   Expanding Economy”, Oxford Economic Papers, 4, 266-307.
+
+Philippon, T. (2019), The Great Reversal: How America Gave Up on Free Markets. Cambridge, Mass.:
+   Belknap Press.
+
+Royal Society (2019), The AI Revolution in Scientific Research.
+Sala-i-Martin, X. (1997), “I Just Ran Four Million Regressions”, NBER Working Paper No. 6252.
+
+Schwab, K. (2017), The Fourth Industrial Revolution. New York: Crown Business.
+
+Shaw-Taylor, L. (2009), “The Occupational Structure of England and Wales, 1750-1871: a Preliminary
+   Report”, Cambridge Group for the History of Population and Social Structure Occupations Project
+   Paper No. 19.
+
+
+
+
+                                                                                                       12
+Thomas, R. and Dimsdale, N. (2017), “A Millennium of UK Data”, Bank of England OBRA Dataset.
+http://www.bankofengland.co.uk/research/Pages/onebank/threecenturies.aspx
+
+Whitehead, A. N. (1925), Science and the Modern World. London: Cambridge University Press.
+
+Wood, G.H. (1910), “The Statistics of Wages in the United Kingdom during the Nineteenth Century
+  (Part XVIII): the Cotton Industry”, Journal of the Royal Statistical Society, 73, 411-434.
+
+
+
+
+                                                                                                  13
+Table 1. GPTs: Contributions to Labour Productivity Growth (% per year)
+                           Capital             TFP                Total           % Whole
+                           Deepening                                              Economy
+ Steam (UK)
+ 1760-1830                       0.011               0.003                0.014         5.6
+ 1830-1870                       0.18                0.12                 0.30         19.0
+ 1870-1910                       0.15                0.16                 0.31         29.2
+ Electricity (USA)
+ 1899-1919                       0.04                0.06                 0.10          5.6
+ 1919-1929 (1)                   0.07                0.07                 0.14          3.6
+ 1919-1929 (2)                   0.07                0.30                 0.37          9.5
+ 1929-1941                       0.04                0.16                 0.20          8.0
+ ICT (USA)
+ 1974-1995                       0.41                0.36                 0.77         49.4
+ 1995-2004                       0.78                0.72                 1.50         49.0
+ 2004-2012                       0.36                0.28                 0.64         41.0
+
+
+Note: in 1919-1929 estimate (1) does not take account of TFP spillovers but they are included in
+estimate (2).
+
+Sources: Byrne et al. (2013), Crafts (2004), Crafts and Woltjer (2021).
+
+
+
+
+                                                                                                   14
+Table 2. Contributions to U.S. Labour Productivity Growth, 1974-95 (% per year)
+                        1974-1995    1995-2004      2004-2012
+ ICT Capital                0.41         0.78           0.36
+ TFP in ICT                 0.36         0.72           0.28
+ Other Capital              0.38         0.44           0.38
+ Other TFP                  0.20         0.90           0.20
+ Labour Quality             0.26         0.22           0.34
+ Total                      1.61         3.06           1.56
+
+
+Note: based on implementing equation (1) with an additional component for labour quality growth
+weighted by labour’s share in national income. Estimates are for private non-farm economy.
+
+Source: Byrne et al. (2013)
+
+
+
+
+                                                                                              15
+Table 3. Factor Shares (%GDP) and Implied Profit Rate (%)
+                   Labour            Land              Capital           Profit Rate
+ 1770                  61.0                 21.8            17.2                 9.8
+ 1780                  56.8                 21.4            21.8                12.6
+ 1790                  57.1                 19.8            23.1                13.1
+ 1800                  55.8                 18.3            25.9                15.3
+ 1810                  56.4                 16.3            27.3                16.0
+ 1820                  59.0                 15.8            25.2                14.3
+ 1830                  60.7                 15.1            24.2                14.1
+ 1840                  59.2                 12.5            28.3                15.9
+ 1850                  65.3                 10.5            24.2                12.9
+ 1860                  62.0                  8.5            29.5                17.2
+
+
+Note: profit rate obtained by dividing capital share by the capital-output ratio using capital stock
+estimates in Feinstein (1988, p. 454).
+
+Sources: Crafts (2020)
+
+
+
+
+                                                                                                       16
+Table 4. Real GDP/Worker and Real Wages (1770 = 100)
+                   Real GDP/           Real Consumption        Real Product Wages
+                   Worker              Earnings
+ 1770                    100.0                100.0                  100.0
+ 1780                    104.0                105.2                   97.0
+ 1790                    104.2                109.3                   97.6
+ 1800                    113.8                109.3                  104.2
+ 1810                    118.7                109.6                  109.8
+ 1820                    115.9                111.6                  112.2
+ 1830                    124.7                114.3                  124.3
+ 1840                    143.9                127.1                  139.8
+ 1850                    154.3                148.9                  165.3
+ 1860                    164.1                154.7                  167.1
+
+
+Note: columns 2 and 3 are 5-year averages centred on year stated.
+
+Sources: derived from Thomas and Dimsdale (2017), Table A8 Column B and A49 Column AI, Table
+A48 Column X, Table A47 Columns B and R.
+
+
+
+
+                                                                                               17
+Table 5. Growth Accounting Estimates, UK 1700-1913 (% per year)
+               Labour Productivity   Capital           Labour Quality      TFP Growth
+               Growth                Deepening         Contribution
+                                     Contribution
+ 1700-1760               0.25              0.10              0.01                0.14
+ 1760-1780              -0.01             -0.06              -0.01               0.06
+ 1780-1800               0.46              0.19              -0.01               0.28
+ 1800-1830               0.29              0.10              0.01                0.18
+ 1830-1856               1.11              0.65              0.08                0.38
+ 1856-1873               2.06              0.72              0.32                1.02
+ 1873-1913               1.06              0.38              0.58                0.10
+
+
+Note: the growth accounting estimates are obtained using a standard neoclassical formula.
+
+Source: Crafts (2021)
+
+
+
+
+                                                                                            18
+Figure 1. GPTs and IMIs
+
+
+                                 General Purpose Technology
+                                               No                       Yes
+
+
+
+
+                                  Bessemer Converter          Steam Power
+                        No
+
+ Invention                        Industrial Robots           Autonomous Vehicles
+ of a Method
+ Of Invention
+
+
+
+
+                                  Research Laboratory         ICT
+                        Yes
+
+                                  Algorithms                  Deep Learning
+
+
+
+
+Source: adapted from Cockburn et al. (2019).
+
+
+
+
+                                                                                    19
+                                 Figure 2: Endogenous Growth
+
+
+
+
+           X                                                                             Schumpeter relationship (high λ)
+Rate of technological progress
+
+
+
+
+                                                                                                Schumpeter (low λ)
+
+
+
+
+                                                                                                           Solow (high s)
+
+
+
+
+                                                                             Solow steady-state relationship (low s)
+                                                                                                            ^k
+                                                                                                              ^
+                                                      Capital per effective unit of labour
+
+
+
+
+                                 Source: Carlin and Soskice (2006).
+
+
+
+
+                                                                                                                  20
+Appendix
+Modern growth economics based on the idea of endogenous innovation makes TFP growth
+endogenous. The key ideas are captured in Figure 2, which is based on Carlin and Soskice (2006), in
+which x is the rate of (labour-augmenting) technological progress and k̂ is the capital to effective
+labour ratio.
+
+The downward-sloping (Solow) line represents the well-known inverse steady-state relationship
+between technological progress and the capital-intensity of the economy for a given savings rate in
+the neoclassical growth model.
+
+The intuition for this is as follows. Steady-state growth means that the rate of growth of the capital
+stock is equal to the rate of growth of the labour force plus the rate of growth of labour-augmenting
+technological progress (ΔK/K = ΔL/L + x) and ΔK/K = sY/K. So, capital stock growth is inversely related
+to the average product of capital. In the neoclassical model, it is assumed that marginal and average
+product of capital fall as the capital to labour ratio increases so the rate of growth of the capital stock
+is inversely related to the capital to labour ratio. In equilibrium faster technological change requires
+faster capital stock growth and for a given value of s this requires a lower capital to labour ratio. Hence
+the slope of the Solow line
+
+The upward-sloping (Schumpeter) line reflects the endogeneity of technological progress based on
+the assumption that a larger market increases innovative effort because it is potentially more
+profitable since success will be rewarded by greater sales. With more capital per unit of effective
+labour there will be higher income per person so the Schumpeter line is upward-sloping.
+
+The equilibrium rate of technological progress is established by the intersection of these two lines
+and, in turn, this determines the rate of economic growth.
+
+Figure 2 implies that the rate of innovation increases when either the Solow and/or the Schumpeter
+line shifts upward. In the former case, this will be the result of an increased rate of investment which
+in this model does have growth rate effects. In the latter case, this will be the result of an increase in
+innovative effort, together with the productivity and impact of that effort, for any given market size.
+This will in general reflect institutions and policies but, crucially for the argument of this paper, the
+method of invention.
+
+
+
+
+                                                                                                        21
+

@@ -1,0 +1,364 @@
+Reference list — Zhang et al. (2026)
+
+1.
+Wang R, Zhang Z, Zhao W, Li SB, Pan Y. Exploring the relationship between generative AI usage and employee creativity: a dual-pathway mediation model. European Journal of Innovation Management. 2025;1–25.
+View Article
+Google Scholar
+2.
+Budhwar P, Chowdhury S, Wood G, Aguinis H, Bamber GJ, Beltran JR, et al. Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT. Human Res Mgmt Journal. 2023;33(3):606–59.
+View Article
+Google Scholar
+3.
+Microsoft. Work trend index annual report 2024: The AI-powered workplace. Microsoft Corporation. 2024.
+4.
+Khan S, Mehmood S, Khan SU. Navigating innovation in the age of AI: how generative AI and innovation influence organizational performance in the manufacturing sector. JMTM. 2024;36(3):597–620.
+View Article
+Google Scholar
+5.
+Scott SG, Bruce RA. Determinants of innovative behavior: a path model of individual innovation in the workplace. Academy of Management Journal. 1994;37(3):580–607.
+View Article
+Google Scholar
+6.
+Ramadan M, Bou Zakhem N, Baydoun H, Daouk A, Youssef S, El Fawal A, et al. Toward Digital Transformation and Business Model Innovation: The Nexus between Leadership, Organizational Agility, and Knowledge Transfer. Administrative Sciences. 2023;13(8):185.
+View Article
+Google Scholar
+7.
+Wang H, Chen Y, Xie J, Liu C. Research on digital empowerment, innovation vitality and manufacturing supply chain resilience mechanism. PLoS One. 2025;20(2):e0316183. pmid:39937796
+View Article
+PubMed/NCBI
+Google Scholar
+8.
+Sundar SS. Rise of Machine Agency: A Framework for Studying the Psychology of Human–AI Interaction (HAII). Journal of Computer-Mediated Communication. 2020;25(1):74–88.
+View Article
+Google Scholar
+9.
+Mingjie G, Jun M, Huirong T. The double-edged sword effect of generative artificial intelligence usage on employee creativity: a perspective of conservation of resources theory. Curr Psychol. 2025;44(10):8485–97.
+View Article
+Google Scholar
+10.
+Chandrasekera T, Hosseini Z, Perera U. Can artificial intelligence support creativity in early design processes? International Journal of Architectural Computing. 2024;23(1):122–36.
+View Article
+Google Scholar
+11.
+Marimon F, Mas-Machuca M, Akhmedova A. Trusting in Generative AI: Catalyst for Employee Performance and Engagement in the Workplace. International Journal of Human–Computer Interaction. 2024;41(11):7076–91.
+View Article
+Google Scholar
+12.
+Lin X, Wu D. AI technology adoption, knowledge sharing, and manufacturing firms’ innovation performance: The moderating effect of absorptive capacity. IEEE Transactions on Engineering Management. 2025.
+View Article
+Google Scholar
+13.
+Katz E, Blumler JG, Gurevitch M. Uses and Gratifications Research. Public Opinion Quarterly. 1973;37(4):509.
+View Article
+Google Scholar
+14.
+Ruggiero TE. Uses and Gratifications Theory in the 21st Century. Mass Communication and Society. 2000;3(1):3–37.
+View Article
+Google Scholar
+15.
+Rubin AM. The uses-and-gratifications perspective on media effects. In: Bryant J, Oliver MB, editors. Media effects: Advances in theory and research. 3rd ed. New York, NY: Routledge. 2009.
+16.
+Barki H, Titah R, Boffo C. Information System Use–Related Activity: An Expanded Behavioral Conceptualization of Individual-Level Information System Use. Information Systems Research. 2007;18(2):173–92.
+View Article
+Google Scholar
+17.
+Ali-Hassan H, Nevo D, Wade M. Linking dimensions of social media use to job performance: The role of social capital. The Journal of Strategic Information Systems. 2015;24(2):65–89.
+View Article
+Google Scholar
+18.
+Zhang X, Ma L, Zhang G. Research on the relationship between social media use and employee performance. Journal of Management Science. 2018;31(2):71–82.
+View Article
+Google Scholar
+19.
+Burton-Jones A, Straub DW Jr. Reconceptualizing System Usage: An Approach and Empirical Test. Information Systems Research. 2006;17(3):228–46.
+View Article
+Google Scholar
+20.
+Jasperson Jon (Sean), Carter PE, Zmud RW. A Comprehensive Conceptualization of Post-Adoptive Behaviors Associated with Information Technology Enabled Work Systems1. MIS Quarterly. 2005;29(3):525–58.
+View Article
+Google Scholar
+21.
+Orlikowski WJ, Iacono CS. Research Commentary: Desperately Seeking the “IT” in IT Research—A Call to Theorizing the IT Artifact. Information Systems Research. 2001;12(2):121–34.
+View Article
+Google Scholar
+22.
+Venkatesh V, Bala H. Technology Acceptance Model 3 and a Research Agenda on Interventions. Decision Sciences. 2008;39(2):273–315.
+View Article
+Google Scholar
+23.
+Lometti GE, Reeves B, Bybee CR. Investigating the Assumptions of Uses and Gratifications Research. Communication Research. 1977;4(3):321–38.
+View Article
+Google Scholar
+24.
+Stafford TF, Stafford MR, Schkade LL. Determining Uses and Gratifications for the Internet. Decision Sciences. 2004;35(2):259–88.
+View Article
+Google Scholar
+25.
+Papacharissi Z, Mendelson A. Toward a new (er) sociability: Uses, gratifications and social capital on Facebook. Media perspectives for the 21st century. Routledge. 2011:212–30.
+26.
+Quan-Haase A, Young AL. Uses and Gratifications of Social Media: A Comparison of Facebook and Instant Messaging. Bulletin of Science, Technology & Society. 2010;30(5):350–61.
+View Article
+Google Scholar
+27.
+Shao G. Understanding the appeal of user‐generated media: a uses and gratification perspective. Internet Research. 2009;19(1):7–25.
+View Article
+Google Scholar
+28.
+Raacke J, Bonds-Raacke J. MySpace and Facebook: applying the uses and gratifications theory to exploring friend-networking sites. Cyberpsychol Behav. 2008;11(2):169–74. pmid:18422409
+View Article
+PubMed/NCBI
+Google Scholar
+29.
+Skjuve M, Brandtzaeg PB, Følstad A. Why do people use ChatGPT? Exploring user motivations for generative conversational AI. FM. 2024.
+View Article
+Google Scholar
+30.
+Chen Z, Chan J. Large Language Model in Creative Work: The Role of Collaboration Modality and User Expertise. Management Science. 2024;70(12):9101–17.
+View Article
+Google Scholar
+31.
+Barber ZW, Dahl JR, Sharpe TL, Erkmen BI. Shot noise statistics and information theory of sensitivity limits in frequency-modulated continuous-wave ladar. J Opt Soc Am A Opt Image Sci Vis. 2013;30(7):1335–41. pmid:24323147
+View Article
+PubMed/NCBI
+Google Scholar
+32.
+Autio E, Nambisan S, Thomas LDW, Wright M. Digital affordances, spatial affordances, and the genesis of entrepreneurial ecosystems. Strategic Entrepreneurship. 2018;12(1):72–95.
+View Article
+Google Scholar
+33.
+Gindert M, Müller ML. The Impact of Generative Artificial Intelligence on Ideation and the Performance of Innovation Teams. arxiv preprint. 2024.
+View Article
+Google Scholar
+34.
+Zou Y, Zhou Y, Huang Q. Research on Proactive Learning Behavior of Employees under the Impact of Artificial Intelligence Technology. Science and Technology Management Research. 2023;17:180–7.
+View Article
+Google Scholar
+35.
+Mu X, Mao J, Wang J. Sensations or Efficiency? A Research on the Double-Edged Sword Effect of Artificial Intelligence Usage on Employee Work Behaviors. Human Resources Development of China. 2023.
+View Article
+Google Scholar
+36.
+Chen J, Yang YJ. A review of the relationship between external knowledge acquisition and enterprise innovation performance. Science & Technology Progress and Policy. 2014;1:156–60.
+View Article
+Google Scholar
+37.
+Russell SJ, Norvig P. Artificial intelligence: a modern approach. Pearson. 2002.
+38.
+Turner AJ, Kuczynski J. Impacts of Behavioral Modeling Assumptions for Complex Adaptive Systems: An Evaluation of an Online Dating Model. In: 2019 Winter Simulation Conference (WSC), 2019. 668–79. https://doi.org/10.1109/wsc40007.2019.9004665
+39.
+Noy S, Zhang W. Experimental evidence on the productivity effects of generative artificial intelligence. Science. 2023;381(6654):187–92. pmid:37440646
+View Article
+PubMed/NCBI
+Google Scholar
+40.
+Qin S (Marco), Jia N, Luo X, Liao C, Huang Z. Perceived Fairness of Human Managers Compared with Artificial Intelligence in Employee Performance Evaluation. Journal of Management Information Systems. 2023;40(4):1039–70.
+View Article
+Google Scholar
+41.
+Zhan X, Li B. Research on data intelligence affordance and cognitive bandwidth adjustment in the context of generative artificial intelligence (GAI). Library & Information. 2024;44(01):110–20.
+View Article
+Google Scholar
+42.
+Liu X, Yu J, Lv W, Yu D, Wang Y, Wu Y. Network security situation: From awareness to awareness-control. Journal of Network and Computer Applications. 2019;139:15–30.
+View Article
+Google Scholar
+43.
+Miao R, Lv C, Lu Y. A meta-analysis of the relationship between enterprise social media usage and employees’ behavioral and psychological outcomes. Nankai Business Review. 2024;27(1):200–10.
+View Article
+Google Scholar
+44.
+Szulanski G. Exploring internal stickiness: Impediments to the transfer of best practice within the firm. Strategic Management Journal. 1996;17(S2):27–43.
+View Article
+Google Scholar
+45.
+Locke EA. The nature and causes of job satisfaction. In: Dunnette MD, editor. Handbook of industrial and organizational psychology. 1976. p. 1297–349.
+46.
+Kianto A, Vanhala M, Heilmann P. The impact of knowledge management on job satisfaction. JKM. 2016;20(4):621–36.
+View Article
+Google Scholar
+47.
+Zhou Q, Tang S. Media use, information cognitive ability and public access to environmental science knowledge - Empirical research based on national representative data. Science Research. 2017;35(4):481–90.
+View Article
+Google Scholar
+48.
+Usmanova N, Yang J, Sumarliah E, Khan SU, Khan SZ. Impact of knowledge sharing on job satisfaction and innovative work behavior: the moderating role of motivating language. VJIKMS. 2020;51(3):515–32.
+View Article
+Google Scholar
+49.
+Fischer C, Döring M. Thank you for sharing! How knowledge sharing and information availability affect public employees’ job satisfaction. IJPSM. 2021;35(1):76–93.
+View Article
+Google Scholar
+50.
+Borman WC, Motowidlo SJ. Task Performance and Contextual Performance: The Meaning for Personnel Selection Research. Human Performance. 1997;10(2):99–109.
+View Article
+Google Scholar
+51.
+Misuraca PM. An examination of the relationship between job satisfaction and tacit knowledge sharing among knowledge workers: A quantitative study. Capella University. 2013.
+52.
+Zhang Z, Sun M, Zheng J, Yang M. Linking ICT Demand to Employees′ Well-being: Evidence from A Weekly Experience Sampling Method Study. Journal of Management Science. 2023;36(3):34–50.
+View Article
+Google Scholar
+53.
+Zhou S, Wei Q. Empirical research on the relationship between job satisfaction and performance of knowledge workers of high science and technology organization. Science and Technology Management Research. 2011;31(18):4.
+View Article
+Google Scholar
+54.
+Varshney D, Damanhouri HMS. Does perception of knowledge sharing, transfer and recognition have an impact on job satisfaction? An empirical study in Saudi Arabia. International Journal of Advanced Research in Management and Social Sciences. 2013;2(9):132–40.
+View Article
+Google Scholar
+55.
+Mohr RD, Zoghi C. High-Involvement Work Design and Job Satisfaction. ILR Review. 2008;61(3):275–96.
+View Article
+Google Scholar
+56.
+Zatzick CD, Iverson RD. Putting employee involvement in context: a cross-level model examining job satisfaction and absenteeism in high-involvement work systems. The International Journal of Human Resource Management. 2011;22(17):3462–76.
+View Article
+Google Scholar
+57.
+Cheng J, Wu X. Influences of Artificial Intelligence (AI) on Improving Job Satisfaction. Price: Theory & Practice. 2023;12:203–8.
+View Article
+Google Scholar
+58.
+Xie X, Zuo Y, Hu Q. Human Resources Management in the Digital Era: A Human-Technology Interaction Lens. Journal of Management World. 2021;37(01):200–16.
+View Article
+Google Scholar
+59.
+Wang Z, Yao M. The impact of human-robot collaboration on employees in the workplace. Foreign Economics & Management. 2022;44(9):86–102.
+View Article
+Google Scholar
+60.
+Yin M, Niu X. Dancing with AI: AI-employee collaboration in the systemic view. Advances in Psychological Science. 2024;32(1):162.
+View Article
+Google Scholar
+61.
+Wang Y, Huang P, Jin Y, Bai X, Yue F, Zhang F, et al. Technical hollowing out of knowledge workers in the manufacturing industry in artificial intelligence context: The definition, formation and influence mechanism. Advances in Psychological Science. 2024;32(12):2005.
+View Article
+Google Scholar
+62.
+Gayathri K, Bella KMJ. Impact of latest innovation in artificial intelligence on employee’s job satisfaction and performance. Alochana Journal. 2024;13(2):370–8.
+View Article
+Google Scholar
+63.
+Katz D. The motivational basis of organizational behavior. Behav Sci. 1964;9(2):131–46. pmid:5888769
+View Article
+PubMed/NCBI
+Google Scholar
+64.
+Amabile TM, Conti R, Coon H, Lazenby J, Herron M. Assessing the work environment for creativity. Academy of Management Journal. 1996;39(5):1154–84.
+View Article
+Google Scholar
+65.
+Yu C, Shi J. R&D mode selection and its impact on innovation performance - a research review. Economic Management. 2006;(19).
+View Article
+Google Scholar
+66.
+Liu X, Li J. Technological complementarity and collaborative innovation in the artificial intelligence innovation ecosystem. Science & Technology Progress and Policy. 2025;42(3):14–26.
+View Article
+Google Scholar
+67.
+Boss RW. Trust and Managerial Problem Solving Revisited. Group & Organization Studies. 1978;3(3):331–42.
+View Article
+Google Scholar
+68.
+Schappe SP. The influence of job satisfaction, organizational commitment, and fairness perceptions on organizational citizenship behavior. J Psychol. 1998;132(3):277–90. pmid:9540226
+View Article
+PubMed/NCBI
+Google Scholar
+69.
+Xiao Z. Outside, the monarch’s order may not be accepted: Are remote jobs really conducive to employees’ deviant innovation behavior?. Foreign Economics & Management. 2020;42(04):36–47.
+View Article
+Google Scholar
+70.
+Wang B. An empirical study on the relationship between organizational innovation climate, employee job satisfaction and employee innovation performance. Enterprise Vitality. 2011;000(001):58–62.
+View Article
+Google Scholar
+71.
+Pang J, Shi H. Employees proactive personality and innovation-related behavior: The moderating effects of job satisfaction, job level and organizational tenure. Science & Technology Progress and Policy. 2016;33(15):133–8.
+View Article
+Google Scholar
+72.
+Yan L, Bai S. HPWS and employee innovative behavior - the mechanism based on perspective of individual perception. Science & Technology Progress and Policy. 2016;33(20):134–9.
+View Article
+Google Scholar
+73.
+Amabile TM. A model of creativity and innovation in organizations. Research in Organizational Behavior. 1988;10(10):123–67.
+View Article
+Google Scholar
+74.
+Zou Q, Zuo B, Dai T. Happiness at Work: Definition, Measurement Levels and Causal Models. Advances in Psychological Science. 2015;23(4):669.
+View Article
+Google Scholar
+75.
+Zhou J, George JM. When job dissatisfaction leads to creativity: encouraging the expression of voice. Academy of Management Journal. 2001;44(4):682–96.
+View Article
+Google Scholar
+76.
+Cao X, Guo X, Vogel D, Zhang X. Exploring the influence of social media on employee work performance. Internet Research. 2016;26(2):529–45.
+View Article
+Google Scholar
+77.
+Robertson BW, Kee KF. Social media at work: The roles of job satisfaction, employment status, and Facebook use with co-workers. Computers in Human Behavior. 2017;70:191–6.
+View Article
+Google Scholar
+78.
+Janssen O, Van Yperen NW. Employees’ goal orientations, the quality of leader-member exchange, and the outcomes of job performance and job satisfaction. Academy of Management Journal. 2004;47(3):368–84.
+View Article
+Google Scholar
+79.
+Fornell C, Larcker DF. Evaluating Structural Equation Models with Unobservable Variables and Measurement Error. Journal of Marketing Research. 1981;18(1):39.
+View Article
+Google Scholar
+80.
+Chin WW. How to Write Up and Report PLS Analyses. Handbook of Partial Least Squares. Springer Berlin Heidelberg. 2009:655–90. https://doi.org/10.1007/978-3-540-32827-8_29
+81.
+Cohen J. Statistical power analysis for the behavioral sciences. 2nd ed. Hillsdale, NJ: Lawrence Erlbaum Associates, Publishers. 1988.
+82.
+Hair J, Hult G, Ringle C. A primer on partial least squares structural equation modeling (PLS-SEM). 2nd ed. Thousand Oaks: Sage Publications. 2017.
+83.
+Wen Z, Ye B. Analyses of Mediating Effects: The Development of Methods and Models. Advances in Psychological Science. 2014;22(5):731.
+View Article
+Google Scholar
+84.
+Kong H, Yuan Y, Baruch Y, Bu N, Jiang X, Wang K. Influences of artificial intelligence (AI) awareness on career competency and job burnout. IJCHM. 2021;33(2):717–34.
+View Article
+Google Scholar
+85.
+Tong S, Jia N, Luo X, Fang Z. The Janus face of artificial intelligence feedback: Deployment versus disclosure effects on employee performance. Strategic Management Journal. 2021;42(9):1600–31.
+View Article
+Google Scholar
+86.
+Chowdhury S, Budhwar P, Dey PK, Joel-Edgar S, Abadie A. AI-employee collaboration and business performance: Integrating knowledge-based view, socio-technical systems and organisational socialisation framework. Journal of Business Research. 2022;144:31–49.
+View Article
+Google Scholar
+87.
+Liang Y, He G, Jin M. The Impact of Using Generative Artificial Intelligence on Employee Creativity Evaluation. Foreign Economics & Management. 2024;46(10):71–88.
+View Article
+Google Scholar
+Download PDF
+ 
+Print
+Share
+  
+ADVERTISEMENT
+Subject Areas
+?
+Employment
+ 
+Labor studies
+ 
+Artificial intelligence
+ 
+Motivation
+ 
+Jobs
+ 
+Creativity
+ 
+Social communication
+ 
+Social media
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The influence of generative artificial intelligence usage on employees’ innovative job performance | PLOS One" (https://journals.plos.org)

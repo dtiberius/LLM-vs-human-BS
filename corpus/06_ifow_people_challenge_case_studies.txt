@@ -1,0 +1,87 @@
+'A People Challenge, Not a Tech One' - First Findings on Workplace AI from our CIPD-backed Case Studies
+
+We are excited to have published first summary findings from a new series of case studies from IFOW which have been developed in partnership with the CIPD as part of the Government-funded support from Innovate UK's BridgeAI programme.
+
+Through action-research with leading organisations, this initial analysis reveals that successful AI adoption is not just about using new technology, but about implementing and embedding it well, forefronting human experience and factors.
+
+More detailed interpretations and implications will be published later, but these first summaries challenge the prevailing narrative that AI implementation is primarily a technical task led by IT or data teams. Instead, they point to a clear and urgent conclusion: work design mediates better outcomes and is the missing link in responsible and effective AI adoption. In short, organisations that treat AI as a people-centred transformation - not just a tool - are far more likely to succeed.
+
+The work draws on insights from action-research conducted with eight (anonymised) organisations across different sectors:
+
+FinanceCo - How a bank supported AI-enabled software developer performance through collaborative job design
+LargeCo - How a lack of employee participation threatened return on AI investment
+MemberOrg - How a not-for-profit navigated the generative AI middle ground through co-creation
+InnovationCo - How the groundwork for responsible AI was built in a safety-critical and unionised sector
+ConstructionCo - How a construction company is journeying towards using AI with purpose
+HealthTrust - How an NHS trust engaged staff on plans to roll out an HR chatbot
+LegalCo - How a law firm introduced an AI legal assistant
+HolidayCo - How a holiday retailer is taking steps towards people-centred AI.
+
+Anna Thomas MBE, who led the research team, said:
+
+'This action research offers rare insight into AI implementation in action. This project has introduced a work design lens to both understand and deliver people-centred approaches that work and stick. The cases strongly suggest that a work design lens could be the missing link in responsible and effective AI adoption that works for people and society, as well as organisations that are seeking guidance through transformation.'
+
+Going deeper, what this work has surfaced some key lessons from the case studies about how to get workplace AI 'right'.
+
+Technical questions tend to take precedence, but success is about engaging in comprehensive work redesign
+
+Common themes were surfaced across the case studies: the most successful organisations were not simply introducing AI tools, but were fundamentally rethinking how work is structured, how decisions are made, and how human skills are developed.
+
+This includes redesigning roles, redefining productivity, and ensuring that human judgment remains at the centre.
+
+As a senior leader at HealthTrust said:
+
+'This isn't necessarily a pure IT project...Actually, that's the main reason why AI and digital projects fail…because of the people side…Often the bulk of the resource goes into the tech side and less on the people side.'
+
+In short: AI adoption at work is not only a technology change - it's a people-centred transformation.
+
+The real barriers are organisational, not technical
+
+While much of the public debate focuses on speed of use and labour market displacement, this work finds that the biggest changes are hidden inside firms and jobs. The main obstacle to successful AI adoption lies in organisational capability and direction.
+
+Fragmented decision-making, weak governance, lack of employee involvement and poor communication consistently emerged as the primary barriers - often leading to low engagement, "shadow AI" use, or outright rejection of new tools.
+
+In contrast, organisations that established cross-functional governance - bringing together HR, IT, legal and operational leaders - were better able to align AI adoption with organisational goals and workforce needs, and thus deliver better outcomes.
+
+Too often, implementation is rushed, with no pause for reflection. This has impacts on critical areas of trust, transparency and collaboration - which need to be earned
+
+A consistent thread across all case studies was the central role of trust, which is grounded in information sharing and higher levels of involvement.
+
+Where employees were excluded from decision-making, organisations reported low uptake and poor return on investment. Where organisations prioritised transparency, dialogue and co-creation, adoption was stronger and more sustainable.
+
+As a senior leader at MemberCo said:
+
+"I just wanted to say something about the importance of any developments being staffed…And I know that's easy for us to say in a small organisation…but it's going to have so much impact on people's work lives that they really do need to be involved from the start."
+
+Successful approaches will include: new forums and open workshops to surface concerns and ideas, clearer hybrid guardrails to support safe experimentation, and introducing metrics to capture human impacts.
+
+These practices helped move organisations from "compliance anxiety" to shared ownership of AI adoption and success.
+
+Efficiency gains — and new pressures
+
+While many organisations achieved significant efficiency gains — from faster document review to reduced administrative burden — the research also highlights unintended consequences. Some organisations pursued narrow process and time efficiencies, without thinking about human impacts, and thus fell into an 'efficiency trap'.
+
+As a senior leader at FinanceCo said:
+
+"The [tech company] has been selling 20% productivity gain. Now, how do I measure it? [There's] no way to measure it. So, if I'm investing that much money I want to know the return; if I'm using 20% developer time for their personal development or doing more feature development or contributing to finance in some way."
+
+AI can increase workloads through higher volumes of output, intensify time pressures, and create new forms of cognitive and emotional strain. Without careful work design as AI is implemented, productivity gains risk being offset by burnout, failure to capture new value through participatory innovation and declining job quality.
+
+A shift in mindset: from implementation to work design
+
+The overarching message from this research is clear: AI adoption cannot be left to technical teams alone. As the people-centred approach that IFOW has pioneered through it's Pissarides Review into the Future of Work and Wellbeing, a future of work that matches innovation with social good will depend not just on what technology can do but on how people and organisations choose to design work around it.
+
+The literature is clear: good work design is associated with
+
+High motivation, engagement, job satisfaction and wellbeing (Hackman & Oldham; Deci & Ryan; Parker)
+Better performance, creativity and resilience (Humphrey; Gagne)
+Increased innovation and productivity (HIWS; Trist & Bamforth)
+AI augmentation (Armstrong; Acemoglu; Restrepo)
+
+For AI adoption specifically, this...
+
+Extends classic process evaluation to consider human outcomes
+Provides an innovation and intervention logic
+Fills gap in understanding
+Evidence review suggests that job design mediates better outcomes at firm and individual level
+Refocuses attention on high impact areas for human outcomes.

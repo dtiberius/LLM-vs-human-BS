@@ -1,0 +1,121 @@
+{
+  "runs_per_cell": 3,
+  "conditions": ["A", "B", "C"],
+  "max_words_per_source_file": 6000,
+  "models": [
+    {"key": "openai_frontier",    "id": "openai/gpt-6-astra",        "note": "OpenAI frontier — check current ID"},
+    {"key": "anthropic_frontier", "id": "anthropic/claude-opus-5",   "note": "Anthropic frontier — check current ID"},
+    {"key": "google_frontier",    "id": "google/gemini-3.8-pro",     "note": "Google frontier — check current ID"},
+    {"key": "open_weight",        "id": "qwen/qwen3.8-max",          "note": "Open-weight — check current ID"},
+    {"key": "cheap",              "id": "google/gemini-3.8-flash",   "note": "Cheap/small lower bound — check current ID"}
+  ],
+  "judge_model": {"id": "PICK-A-MODEL-NOT-IN-THE-LIST-ABOVE"},
+  "briefs": [
+    {
+      "id": "01",
+      "brief": "prompts/briefs/brief_01.md",
+      "corpus": "corpus/01_bankunderground_schlicht_canaries.txt",
+      "target_words": 1400,
+      "audience": "central bank economists and policymakers",
+      "condition_b_sources": [
+        "sources/01_schlicht/data_appendix_01.txt",
+        "sources/01_schlicht/sources_01.md",
+        "sources/01_schlicht/friebel_et_al_2026_pyramids_diamonds.txt"
+      ]
+    },
+    {
+      "id": "02",
+      "brief": "prompts/briefs/brief_02.md",
+      "corpus": "corpus/02_bankunderground_batten_ai_productivity.txt",
+      "target_words": 1700,
+      "audience": "central bank economists and policymakers",
+      "condition_b_sources": [
+        "sources/02_batten/data_appendix_02.txt",
+        "sources/02_batten/sources_02.md",
+        "sources/02_batten/crafts_2021_ai_as_gpt.txt",
+        "sources/02_batten/bresnahan_trajtenberg_1992_gpt.txt"
+      ]
+    },
+    {
+      "id": "03",
+      "brief": "prompts/briefs/brief_03.md",
+      "corpus": "corpus/03_epi_gould_fast_class_of_2026.txt",
+      "target_words": 2000,
+      "audience": "US policymakers and journalists covering the labour market",
+      "condition_b_sources": [
+        "sources/03_epi/data_appendix_03.txt",
+        "sources/03_epi/sources_03.md"
+      ]
+    },
+    {
+      "id": "04",
+      "brief": "prompts/briefs/brief_04.md",
+      "corpus": "corpus/04_ons_ai_in_uk_businesses_2023_2026.txt",
+      "target_words": 2600,
+      "audience": "UK policymakers and business analysts",
+      "condition_b_sources": [
+        "sources/04_ons/data_appendix_04.txt",
+        "sources/04_ons/sources_04.md"
+      ]
+    },
+    {
+      "id": "05",
+      "brief": "prompts/briefs/brief_05.md",
+      "corpus": "corpus/05_cipd_crowley_futureproofing_skills.txt",
+      "target_words": 1200,
+      "audience": "HR directors and senior business leaders",
+      "condition_b_sources": [
+        "sources/05_cipd/data_appendix_05.txt",
+        "sources/05_cipd/sources_05.md",
+        "sources/06_ifow/case_studies/FinanceCo.txt",
+        "sources/06_ifow/case_studies/LargeCo.txt",
+        "sources/06_ifow/case_studies/MemberOrg.txt",
+        "sources/06_ifow/case_studies/InnovationCo.txt",
+        "sources/06_ifow/case_studies/ConstructionCo.txt",
+        "sources/06_ifow/case_studies/HealthTrust.txt",
+        "sources/06_ifow/case_studies/LegalCo.txt",
+        "sources/06_ifow/case_studies/HolidayCo.txt"
+      ]
+    },
+    {
+      "id": "06",
+      "brief": "prompts/briefs/brief_06.md",
+      "corpus": "corpus/06_ifow_people_challenge_case_studies.txt",
+      "target_words": 1100,
+      "audience": "employers and HR leaders",
+      "condition_b_sources": [
+        "sources/06_ifow/sources_06.md",
+        "sources/06_ifow/case_studies/FinanceCo.txt",
+        "sources/06_ifow/case_studies/LargeCo.txt",
+        "sources/06_ifow/case_studies/MemberOrg.txt",
+        "sources/06_ifow/case_studies/InnovationCo.txt",
+        "sources/06_ifow/case_studies/ConstructionCo.txt",
+        "sources/06_ifow/case_studies/HealthTrust.txt",
+        "sources/06_ifow/case_studies/LegalCo.txt",
+        "sources/06_ifow/case_studies/HolidayCo.txt"
+      ]
+    },
+    {
+      "id": "07",
+      "brief": "prompts/briefs/brief_07.md",
+      "corpus": "corpus/07_frontiers_zhu_cognitive_offloading_discussion.txt",
+      "target_words": 1900,
+      "audience": "educational and cognitive psychology researchers",
+      "condition_b_sources": [
+        "sources/07_zhu/zhu_methods_results.txt",
+        "sources/07_zhu/zhu_references.txt"
+      ]
+    },
+    {
+      "id": "08",
+      "brief": "prompts/briefs/brief_08.md",
+      "corpus": "corpus/08_plosone_zhang_genai_innovative_performance_discussion.txt",
+      "target_words": 1400,
+      "audience": "organisational behaviour researchers and HR practitioners",
+      "condition_b_sources": [
+        "sources/08_zhang/zhang_methods_results.txt",
+        "sources/08_zhang/zhang_references.txt"
+      ]
+    }
+  ]
+}

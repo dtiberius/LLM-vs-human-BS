@@ -1,0 +1,143 @@
+How a bank supported AI-enabled software developer performance through collaborative job design (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/ai-developer-collaboration/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+Profile
+
+This case study focused on a UK bank with digital and high-street services, referred to here as FinanceCo. With a workforce of over 26,000 supported by a team of 370 people professionals, the organisation maintained high employee engagement, consistently ranking in the upper decile.
+
+In terms of AI maturity, FinanceCo was ahead of the curve in the sector. The bank had established a formal framework for responsible AI guided by a dedicated AI strategy, an AI council and a centre of expertise. This approach was built on the responsible AI principles of accountability, contestability and redress, fairness, empowerment, and societal and environmental wellbeing.
+
+While FinanceCo managed a diverse portfolio of AI projects, this case study examined the rollout of an AI coding assistant for their software developers. To support the action research process, FinanceCo formed a senior cross-functional working group. This brought together AI delivery experts and specialists from across the people team including AI and people, skills, strategic workforce planning, and colleague enablement.
+
+Operational context
+
+FinanceCo's approach to technology – including AI – was inherently cautious. Every AI use case was tracked end-to-end, ensuring all deployments aligned strictly with the bank's risk appetite and governance frameworks.
+
+Recognising that AI was more than just a technical deployment, FinanceCo invested in a dedicated people and communications workstream to guide its workforce through the transition. This initiative focused on supporting the workforce through change via tailored skill development and transparent insight sharing across the bank.
+
+FinanceCo's senior people professionals emphasised that AI tools should be used as "thinking partners". Employees were encouraged to engage with these tools critically to improve processes rather than follow without question.
+
+For software developers, the introduction of an AI coding assistant marked a "fundamental shift" in job design. By using the AI coding assistant to generate boilerplate code, software developers can pivot their focus toward high-level system architecture and creative problem solving. Leaders viewed this shift as an opportunity for "people's creativity to shine".
+
+Challenge
+
+A key challenge for FinanceCo was to bridge the gap between technical potential and lived experience to understand exactly how the AI coding assistant was reshaping software developer roles. The working group's goal was to use these insights as a blueprint for future AI projects, specifically to inform their approach to learning pathways and strategic workforce planning.
+
+The working group identified the following areas to uncover through the research:
+
+- Real-world use. Understanding how software developers used and experienced the AI coding assistant in practice, and how these capabilities reshaped existing workflows.
+- Meaningful engagement. Understanding how to openly involve software developers as AI use increases.
+- Leadership communication. Equipping leaders and managers with the insight they needed to communicate clearly as they integrated AI into existing workflows.
+- Future-proofing. Evaluating the opportunities and risks that AI presented to the bank's current and future capabilities.
+- Learning design. Defining the criteria for effective learning pathways.
+
+As one working group member noted: "There's constant adaptation. You're not just using a software tool that has some limits … the software is improving all the time … your ability … to get the most from it is improving all the time as well."
+
+For the people team, the ultimate obstacle was reliance on anecdote. While the benefits of AI were discussed by a few, the team lacked the representative insights required to build a people strategy rooted in reality.
+
+What they did
+
+To capture lived experience in the transition, the working group co-designed an in-person workshop session with IFOW. The workshop was facilitated by external researchers to ensure a neutral environment where participants felt comfortable sharing their experiences. This allowed seven software developers of varying seniorities to discuss how their roles were shifting, joined for part of the session by a senior people professional.
+
+For their workshop approach, IFOW guided participants through the first three stages of the 6Rs framework: 'Reveal', 'Reflect' and 'Reimagine'.
+
+An initial icebreaker activity surfaced what software developers considered a responsible approach to AI. Beyond the foundational requirements of AI governance – including data privacy and human oversight – participants emphasised the need for informed consultation, strong employment protections and comprehensive training opportunities.
+
+Software developers then benchmarked their progress on a learning journey from 'awareness' to 'confidence'. Senior software developers noted that their use of the AI coding assistant was limited, as they preferred to use other tools. They also highlighted that the linear learning journey failed to capture the varying intensity of AI use – a key insight for tailoring future learning pathways for high-skilled roles.
+
+Transparency played a vital role in the process. After a senior lead shared FinanceCo's roadmap for the AI coding assistant, the group engaged in open discussion. This prompted critical questions regarding performance measurement, efficiency traps and the necessary evolution of learning and development.
+
+To transition from reflection to solutions, breakout groups unpicked how specific job characteristics were being impacted by the AI coding assistant (see Appendix 1). In the final segment, participants focused on how work could be designed to maximise positive, people-centred outcomes. By mind mapping a range of practical solutions and concrete interventions, participants co-developed solutions centred on five key themes (see Appendix 2).
+
+When looking at insights from this workshop, the discussions illuminated several critical areas of concern and opportunity:
+
+- Performance metrics. Software developers questioned whether new metrics that focused on quantity (eg lines of code) rather than quality would be introduced. Such an approach would fail to capture the value of senior developer roles, which involve less coding and more time dedicated to fixing code and mentoring.
+- 'Efficiency traps'. Despite the promise of efficiency and high investment in the AI coding assistant, the technology provider did not provide a framework for measuring genuine productivity gains.
+- Holistic learning. Participants emphasised that learning and development must include coaching and mentoring. This was especially relevant for entry-level roles. Without the know-how to challenge AI-generated outputs, they risk over-relying on the AI coding assistant.
+- Shifting skillsets. Participants underlined that as tasks evolve, understanding the code infrastructure and design was becoming more essential than the act of writing the code itself.
+
+The conversations expanded beyond the AI coding assistant to consider the individual, team and organisational factors that shape a positive experience of work. The value of this people-centred approach was further captured by one working group member, who remarked: "This is probably the best conversation on AI I've had in a long time."
+
+Outcomes
+
+Led by the people team, the working group established two critical workstreams to drive a people-centred approach to integrating AI at work: fostering social learning and bolstering management capabilities. Both areas aligned with existing expertise and delivery capacity of FinanceCo's people team.
+
+Looking at fostering social learning, insights from the workshop revealed that software developers, particularly those in junior roles, required a holistic approach to learning that moved beyond standard third-party training materials. Key suggestions included:
+
+- Peer-to-peer coaching. Increasing dedicated face-to-face coaching between experienced and junior developers to build deeper contextual awareness and critical thinking regarding system architecture.
+- Communities of practice. Establishing supportive team spaces such as formal communities to create a co-learning culture. This provide teams with the autonomy to pinpoint value-add tasks and define learning pathways needed to achieve them.
+- AI champions network. Embedding a network of AI champions within software developer teams to drive engagement, support collective decision-making and align AI usage with long-term career pathways.
+
+When looking at bolstering management capabilities, the working group identified a need for greater support for managers to ensure consistent practices and drive a cultural shift for high-involvement management practices. Key areas highlighted by software developers included:
+
+- Strengthening management coaching. Reviewing existing programmes – with a focus on teams with lower manager capability scores – to build essential coaching skills. This would enable managers to better support the shift in software developer roles from individual coding to a more collaborative focus on peer-to-peer code review and quality.
+- Developing team-based collaboration. Equipping managers to foster their teams' communication and problem-solving abilities. This would ensure that as the technical burden of coding shifts to AI, software developers are supported in building the foundational collaboration skills necessary for effective peer review.
+
+Learning points
+
+- Leverage existing people team expertise. People teams often already have the strategic skills and experience to provide immediate value-add and improve return on investment on AI projects.
+- Analyse impacts through job design. Applying a job design lens helps identify how AI changes specific roles. This approach provides a tangible way to see exactly how the technology impacts daily work at both the individual and team level.
+- Go beyond standard training. The deployment of AI at work should be underpinned by a holistic strategy. This must go beyond third-party training to include the strengthening of management capabilities, which enables a culture of peer-to-peer support and social learning.
+- Redefine productivity through engagement. Measuring shifts in productivity is rarely straightforward. Engaging directly with the workforce is a powerful way to uncover changes in actual value-add activities and avoid reliance on superficial metrics.
+- Recognise the non-linear nature of AI uptake. The intensity of AI use varies significantly across different roles and experience levels. Success depends on moving away from a one-size-fits-all learning path toward tailored approaches that reflect the way the tool is used daily.
+
+Appendix 1: Job characteristic impacts
+
+Job autonomy and control
+- Strategic decision-making (positive). Experienced software developers can focus on higher-level system architecture and code design decisions.
+- Contextual gap (negative). While junior software developers have more information at their fingertips through the AI coding assistant, they have a lower grasp of the wider context. This creates a gap between understanding the problem and how to solve it.
+- Support deficit (negative). Increased expectation for junior software developers to 'just do it' with the AI coding assistant, with less access to managerial support for learning.
+
+Task variety and significance
+- Value-add focus (positive). Increased efficiency frees up time to dedicate to higher-value tasks required by customers.
+- Workflow erosion (negative). Awareness of how individual tasks fit within broader workflows is being lost. This is exacerbated by reactive tasks like simply accepting the outputs generated by the AI coding assistant.
+- Accountability diffusion (negative). Overreliance on the AI coding assistant can make it difficult for software developers to remain accountable for code they don't fully understand.
+
+Skill variety and use
+- Learning expansion (positive). The AI coding assistant creates opportunities to develop skills in different areas.
+- Critical thinking decline (negative). As the AI coding assistant is designed to appease rather than challenge users, critical thinking skills may diminish.
+- Standardised creativity (negative). Creativity is reduced to writing or ideating a prompt for the tool, leading to potential difficulties in standing out as a high performer as employees tend to use the same tools in the same way.
+
+Job feedback
+- Objective review (positive). The AI coding assistant acts as a 'second pair of eyes', offering immediate, varied feedback on outputs.
+- Performance metric disruption (negative). A shift towards measuring quantity over quality may disrupt accurate performance assessment.
+- Job satisfaction risks (negative). If individual contributions are blurred by AI output, feedback accuracy and job satisfaction may decline.
+
+Social and relational
+- Unbiased feedback (positive). Managers viewed AI-generated performance feedback as potentially less biased than what they would deliver.
+- Isolation (negative). Junior software developers reported fewer team interactions, often being directed to find answers from the AI coding assistant instead.
+- Collaborative decline (negative). Peer-to-peer learning may decrease as software developers rely on the AI coding assistant rather than colleagues for information.
+
+Job demands
+- Fewer administrative tasks (positive). Potential decrease in routine administrative tasks.
+- Delivery pressure (negative). Junior software developers felt increased pressure to deliver work faster following the deployment of the AI coding assistant.
+- Review workload (negative). Senior software developers expected an increased code-review workload, as AI-assisted output from junior software developers could contain more errors.
+
+Appendix 2: Solutions and interventions
+
+1. Meaningful learning and training
+- Moving beyond 'box ticking'-based exercises and third-party training which, as software developers noted, lack real-world value.
+- Prioritise software developer-led content, including hands-on learning and impactful demonstrations.
+- Foster independence to allow for deep dives into complex technical subjects.
+- Broaden L&D focus to include AI tool proficiency alongside core professional capabilities.
+- Uphold and encourage the use of the 10% L&D time stipulated in employment contracts.
+
+2. Improved communication flows
+- Develop a clear organisational stance on AI that focuses on supporting employee discretion over their work.
+- Strengthen feedback loops between innovation leaders and 'on-the-ground' teams to capture lived experience with emerging technologies.
+
+3. Junior–senior feedback loops
+- Encourage senior managers to understand how work is being enriched, rather than focusing solely on efficiency.
+- Facilitate mentorship to help junior software developers understand the wider context of system architecture and code design.
+- Clarify expectations. Access to the AI coding assistant does not guarantee effective usage.
+- Renew 180-degree reviews or similar to allow junior software developers to provide constructive feedback to their seniors.
+
+4. Reconsideration of metrics
+- Review how value is measured, specifically looking at how increased uptake of the AI coding assistant impacts existing KPIs.
+- Ensure metrics prioritise quality over speed. For example, capturing value-add for customers rather than just AI uptake levels.
+- Combine quantitative metrics with qualitative assessments for a more accurate picture of performance.
+
+5. Updates to job and role descriptions
+- Update job descriptions to reflect current realities. For example, shifting focus from writing code manually to evaluating system logic and code quality.
+- Embed flexibility and growth potential within job descriptions to ensure they remain relevant as technical requirements and skills evolve.

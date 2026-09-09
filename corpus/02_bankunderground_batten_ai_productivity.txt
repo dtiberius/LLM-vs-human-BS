@@ -1,0 +1,82 @@
+Is artificial intelligence making us more productive? What the UK industry data show
+
+Unlike previous waves of automation, machine learning and generative AI (Gen AI) technologies can perform non-routine cognitive tasks, such as those involving written or spoken language, and have the potential to affect a wider range of occupations. By augmenting or replacing workers in these tasks, these technologies promise to deliver significant productivity gains. AI adoption, while still limited, seems to be linked to productivity gains across industries in the US, although it can only explain a small fraction of the aggregate pick up in US productivity. This post examines the emerging evidence from UK industry data and finds some indication that AI is contributing to productivity growth following a similar pattern to previous key technologies.
+
+Key technologies, industrial revolutions and productivity growth: a historical perspective
+
+New technologies differ in their economic impact: some 'General Purpose Technologies' (GPTs) have a central role in economics because they tend to have a large and long-lasting impact on productivity growth. They are characterised by (a) Pervasiveness: they are widely used and spread to most sectors; (b) Improvement: they are capable of ongoing technical improvement; and (c) Innovation spawning: they make it easier to invent and produce new products or processes. Each past Industrial Revolution was associated with a new GPT: the First Industrial Revolution (Britain, 1760s–1830s) with the creation of steam engine, the Second (US, 1870–1914) with the invention of electricity and the Third (US, 1960s–2000s) with the introduction of Information and Communication Technologies (ICTs).
+
+In addition to a new GPT, each Industrial Revolution was also accompanied by the 'Invention of a Method of Invention' (IMI), a significant change in the way new ideas are generated, which raises the productivity of the technological process itself. In the First Industrial Revolution, the new method was based on systematic empiricism and experimentation. In the Second, the IMI was the creation of the industrial R&D laboratory. In the Third, rapid developments in computers (ICT) provided a new method for innovating. Importantly, GPTs and IMIs are different concepts, and ICT is the only example of a previous technology that was both a GPT and an IMI.
+
+Artificial intelligence as a 'revolutionary' technology and its impact on productivity
+
+Many authors agree that AI, more specifically Gen AI, has the characteristics of a GPT: it can be used for a very broad set of tasks and therefore has the potential to spread widely across the economy; it generates innovation, for example in user interfaces or product design; and its capabilities have been expanding dramatically since its introduction. It also enhances the research process, confirming it is also an IMI.
+
+Gen AI seems to be advancing at an unprecedented pace, with potentially large impacts not only on productivity but also on human labour. For these reasons, it is crucial to monitor its diffusion and impact on the economy. This post introduces a possible framework to think about the impacts of AI as a supply-side shock in the first instance. It then examines the evidence of AI impacts on UK labour productivity, measured as output per hour worked. A change in labour productivity can come either through higher output or through fewer hours worked, possibly due to lower employment. The current evidence on AI impact on labour demand is presented in a companion post.
+
+Figure 1 depicts two broad transmission channels of the impact of AI on the macroeconomy.
+
+Figure 1: Transmission channels for AI macroeconomic impacts
+
+Sources: Author's figure based on Acemoglu and Restrepo (2019), Aghion et al (2018), Bresnahan and Trajtenberg (1995), Crafts (2021), Brynjolfsson et al (2025), Baily et al (2025) and Haskel et al (2025).
+
+The efficiency channels increase workers' or capital's productivity, as automation expands the set of tasks that can be executed by capital. Through this channel, AI predominantly affects the labour market, by either substituting labour (extensive margin automation), complementing it (task complementarity) or creating new tasks. AI can also make already automated tasks more productive (deepening of automation).
+
+The innovation channels boost productivity growth by changing the nature of the scientific process, are related to the role of AI as a GPT and an IMI and affect the technology parameter (A) in the production function.
+
+These two channels represent the initial impact of AI on the (real) components of the supply side of the economy: the overall effect of AI on the macroeconomy will ultimately depend on general equilibrium effects through the demand side of the economy. For example, changes in employment or wages could affect household consumption and changes in the desired level of capital stock could boost business investment. Expectations about future returns or income from AI could affect both consumption and business investment.
+
+Is Gen AI improving UK productivity?
+
+The experience of previous GPT eras – particularly the ICT revolution in the US – can help answer this question. In the first phase of the ICT revolution, the ICT-producing sector – semiconductors, hardware, software and communication equipment – contributed strongly to labour productivity growth, whereas in the second phase labour productivity was driven by industries outside of the production of information technology, particularly the highest ICT-using industries.
+
+Chart 1 compares industries' contributions to UK labour productivity growth for two different time periods: the 'post Gen AI' period (2023–25) and the 'Pre-Covid 19' period (2010–19). Chart 1 shows that the major contributor over the most recent period has been the ICT sector, the 'AI-producing' sector in the UK. While the ICT contribution was higher in 2010–19, this was driven mainly by technology improvements in the telecommunication industry in that decade, for example increased coverage and broadband speeds, reflected in a quality adjustment in published statistics.
+
+Of the AI-using sectors, expected positive contributions come from Administrative and support activities and Manufacturing. Financial and insurance activities, instead, show a negative contribution, despite being large and a strong AI adopter. Possible explanations include output mismeasurement and other negative factors offsetting positive AI impacts.
+
+Chart 1: Industry contributions to labour productivity growth
+
+Note: Average contribution to year-on-year output per hour growth in percentage points.
+
+Sources: ONS output per hour and author's calculations.
+
+Productivity in the AI-producing industry
+
+AI-producing activities are not explicitly identified in the current Industrial Classification (SIC 2007). Of the five layers of the AI supply chain – hardware, cloud computing (AI infrastructure), training data, foundation models and AI applications – UK AI activity is concentrated in AI infrastructure and AI applications.
+
+Cloud computing services are included in 'Data processing, hosting and related activities' (SIC code 63110). AI applications include both AI products – the development, customisation, and licensing of AI-powered software ('Business and domestic software development', SIC code 62012) and AI services – the provision of expert advice and technical services ('Computer consultancy activities', SIC code 62020).
+
+Chart 2 shows that the contribution of both AI-producing industries stands out: 'Computer programming, consultancy and related activities' (SIC 62) increased its contribution to annual productivity growth tenfold, from 0.01 percentage points to 0.10 percentage points between the two periods, and 'Information services activities' (SIC 63), which was dragging on productivity pre-Covid, switched to a positive contribution of 0.06 percentage points.
+
+Chart 2: Contribution of the ICT sector to aggregate productivity growth, by section
+
+Notes: Average contribution to year-on-year output per hour growth in percentage points. The telecommunications sector is excluded, since its quality improvement in the pre-pandemic decade greatly affects the contribution of the ICT sector summarised in Chart 1.
+
+Sources: ONS output per hour and author's calculations.
+
+The increase in the contribution of these two industries suggests that AI might be already boosting the productivity in the GPT-producing sectors, similarly to what happened during the ICT boom.
+
+Productivity in the AI-using industries and across sectors
+
+Is there any indication that AI-using industries are also becoming more productive? The second highest contributor to recent labour productivity growth shown in Chart 1 is 'Administrative and support services'. Within these, 'Office administrative and business services activities' have contributed the most to aggregate productivity growth most recently, while dragging on growth in the past (Chart 3). Business service activities seem to be highly exposed to AI automation, and therefore these findings suggest that AI might have started to improve productivity in these (AI-using) areas.
+
+Chart 3: Contribution of the administrative and business services sector to aggregate productivity growth, by section
+
+Note: Average contribution to year-on-year output per hour growth in percentage points.
+
+Sources: ONS and author's calculations.
+
+What can be said across a wider cross section of industries? Chart 4 shows the change in the contribution to aggregate productivity growth between the two periods across industries, relative to their AI adoption rate.
+
+The regression line has a positive slope, and, although adoption only explains a small part of the variance, it is suggestive of an association between higher AI adoption and an increase in the industry's contribution to aggregate productivity.
+
+Chart 4: Industry contribution to productivity growth and AI adoption
+
+Notes: Change in the average quarterly industry contribution to annual labour productivity growth over the period 2023–25 relative to 2010–19 by AI adoption. AI adoption is the percentage of companies in the industry that used any form of AI up to December 2025. Fitted line y = 0.105x – 1.3918 (slope coefficient p-value=0.065; R-squared= 0.1028).
+
+Sources: ONS output per hour by industry; ONS Business Insights and Conditions Survey and author's calculations.
+This work was undertaken in the Office for National Statistics Secure Research Service using data from ONS and other owners and does not imply the endorsement of the ONS or other data owners.
+
+Conclusion
+
+The previous General purpose technology era – the ICT era – was characterised by an improvement in productivity of the GPT-producing sectors, followed by faster growth in the GPT-using sectors, following widespread adoption of the technology. Similarly, with AI as the new GPT, we highlighted some evidence of an increasing contribution of AI-producing industries to aggregate productivity growth. We also showed a tentative association between AI adoption and an increase in the contribution to aggregate productivity across industries. This is of course only suggestive of a correlation, not causation. To help us understand whether AI is indeed causing productivity improvements it will be important to continue monitoring these productivity indicators, as well as developments in labour markets and in the measurement of AI adoption, together with additional and more granular analysis.

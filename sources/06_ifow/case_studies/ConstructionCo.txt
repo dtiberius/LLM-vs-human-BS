@@ -1,0 +1,62 @@
+Using AI with purpose: a construction company's journey (IFOW case study 2, from "Good Work Design and AI Adoption – Action Research in Eight Cross-Sector Case Studies", May 2026)
+Source PDF: https://cdn.prod.website-files.com/64d5f73a7fc5e8a240310c4d/6a1d5d71fa8804b920e291b2_Good%20Work%20Design%20-%20Case%20Studies%20-%20FINAL%202.pdf
+Fidelity: text returned by the fetch tool as verbatim; spot-check against the PDF before quoting.
+
+Profile
+
+This case study focused on a construction company, referred to here as ConstructionCo. It looked at how they learnt from the past to become more deliberate in how they buy and use AI and other technologies.
+
+ConstructionCo handles every step of building a home, from identifying and buying land to construction and sales. It employs several thousand people across its regional divisions in the UK. In the past two years, its HR team grew from one to 25 people.
+
+Even though interviewees reported believing that the construction industry as a whole is slow to use new technologies, the people at ConstructionCo felt they were falling behind competitors. When IFOW started engaging with ConstructionCo, its HR department had procured an AI-enabled HR system, which was now in a testing phase. Meanwhile, selected departments across ConstructionCo were trialling a general-purpose generative AI tool.
+
+This case study explored how ConstructionCo learned from the past and became more thoughtful in how they choose and use new technologies across the organisation. For example, how a prioritisation technique guided the HR department's procurement and how the legal department assessed a general-purpose generative AI tool.
+
+A cross-functional working group got together to support the action research process with IFOW, including representatives from HR, IT and risk departments.
+
+Operational context
+
+Employees were wary about using new tools because previous launches had not gone well. In one case, a new system was introduced with limited employee consultation. Because the system did not meet their needs, hardly anyone used it, and ConstructionCo had ended up cancelling the contract.
+
+Despite these past negative experiences, regular feedback from quarterly townhalls and employee surveys showed high levels of trust and engagement. During the townhall meetings, management shared their plans for new technology and invited employees to share their thoughts about the new HR system and on using generative AI. This renewed interest in AI was partly sparked by a new pro-technology senior leader. With this fresh perspective, employees brainstormed practical ways to save time and share knowledge effectively.
+
+However, as ConstructionCo is at an early stage of digital maturity, it lacked a clear strategy for leveraging AI, and this meant that use on the ground was fragmented. Employees were trying AI tools independently and did not have many opportunities to share their learnings with others.
+
+Challenge
+
+The biggest challenge for ConstructionCo was that employees had different levels of interest and confidence in using AI.
+
+Employees who did not use general-purpose generative AI tools much were hesitant and anxious about the risk of data breaches. They were curious about how AI could help them streamline processes and do advanced data analysis. But because there was no clear plan or structured training, they did not feel they had the skills to figure out how AI could help them with specific tasks.
+
+'Super users', on the other hand, were confident and willing to experiment with AI tools. But their efforts were ad hoc, and there were no structured processes to enable them to share learning more widely.
+
+Because of this, fewer employees used AI tools and people missed out on chances to learn from one another. Without clear rules, structured training or a way to share ideas, ConstructionCo risked getting stuck in ad hoc experimentation instead of making real progress.
+
+What they did
+
+As part of the action research process, IFOW reviewed internal documents, interviewed employees across corporate departments and co-designed a workshop with the working group. IFOW also looked at how the legal department assessed a general-purpose generative AI tool.
+
+One of the documents reviewed was a Request For Proposal (RFP) to HR system vendors outlining the HR department's requirements by priority. This RFP set the tone for a thorough nine-month HR system procurement process. Requirements in the RFP were organised by the MoSCoW prioritisation technique: 'must-have', 'should-have', 'could-have' and 'won't-have'. Vendors were asked to show how their solution addressed each item in the list. This helped the HR department systematically think about how vendor proposals for the new HR system could help employees, managers and the HR department in their daily work.
+
+ConstructionCo's working group co-designed a workshop with IFOW to discuss with employees ways to overcome the identified challenges. The working group agreed that it would be useful to identify ground rules and structured learning opportunities to enable effective AI use at work.
+
+Meanwhile, the head of legal independently led a pilot to assess whether using a general-purpose AI assistant could reduce their use of external legal panels.
+
+Outcomes
+
+The co-designed workshop plan included live demonstrations, breakout discussions, and activities to map AI's impact on job design. While there wasn't time to run the workshop during the action research process, the workshop co-design meeting helped the working group surface gaps to address:
+
+- AI training should not just be about how the general-purpose generative AI tool worked. It needed to give employees the confidence to try new things safely and learn where the AI tool can help them do their jobs better.
+- The meeting also confirmed the working group's belief that a clear set of rules (governance) is essential. Employees need these safety guardrails to prevent confidential data being leaked through the AI tool.
+- The working group realised that asking employees to help each other informally was not enough to teach everyone how to use the AI tool effectively. They suggested creating structured learning pathways for everyone and creating a group of 'AI champions' who can give expert help.
+- The HR department's use of MoSCoW to prioritise requirements during the procurement process was highlighted as good practice.
+
+Furthermore, the legal department's AI tool pilot uncovered significant time and cost savings. The time spent reviewing a document fell from around an hour to 15 minutes. This highlighted an opportunity for ConstructionCo to bring routine work back to its own legal department and save money. Besides making work faster, the pilot created space for open conversation on how employees in the legal department were using AI tools. This allowed ConstructionCo to formally check the AI tool's performance while listening to employees.
+
+Learning points
+
+Rebuild trust through transparency. Past technology failures can make employees anxious or sceptical. To move forward, lead with open communication. By involving employees early you ensure AI tools actually solve their problems, turning fear of the new into trust in the process.
+
+Create safety guardrails for learning. Employees want to try AI tools but are anxious about making a mistake and leaking data. To fix this, provide clear rules (governance) and step-by-step training. When employees know where the boundaries are, they feel empowered to experiment safely, and it helps the organisation stay compliant.
+
+Move beyond asking a friend. Informal learning only works if you know the right people, which can leave some employees behind. To spread AI skills across the organisation, offer structured learning pathways and create a formal 'AI champions' network. This breaks down silos and makes sure everyone has access to the same learning opportunities and experts.

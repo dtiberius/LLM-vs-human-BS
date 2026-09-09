@@ -1,0 +1,232 @@
+Not all cognitive offloading is equal: distinguishing dependent and autonomous offloading to generative AI
+Zhu, Li, Dong, Chang & Fan (2026), Frontiers in Psychology, 10.3389/fpsyg.2026.1878629 (CC BY)
+[Condition B source: Sections 3 (Materials and methods) and 4 (Results), verbatim from the published HTML; figure/table images omitted]
+
+3 Materials and methods
+3.1 Participants and procedure
+
+We conducted a three-wave time-lagged survey study. The study was reviewed and approved by the relevant institutional ethics committee. All participants provided written informed consent before the first wave.
+
+Recruitment and sample. Participants were recruited from universities and young professional communities through online survey platforms. Inclusion criteria required that participants (a) were aged 18 or above, (b) had at least 3 months of experience using generative AI tools (e.g., ChatGPT, ERNIE Bot, Kimi, Doubao) for learning or work-related cognitive tasks, and (c) provided informed consent. Participants received modest monetary compensation per completed wave, with a small additional bonus for completing all three waves.
+
+Three-wave design. The three survey waves were separated by 2-week intervals. Time 1 (T1) measured independent variables (dependent cognitive offloading, autonomous cognitive offloading), the proposed moderator (metacognitive monitoring), control variables (task complexity, demographics), and AI use background. Time 2 (T2), administered 2 weeks after T1, measured the hypothesized mediators (cognitive agency transfer, intrinsic motivation) and immediate benefit. Time 3 (T3), administered 2 weeks after T2, measured the four outcome variables (subsequent autonomous capability, creativity, deep processing, independent judgment). The 2-week interval was chosen to allow sufficient time for the proposed psychological processes to unfold while minimizing attrition. Participants were matched across waves using unique identifiers generated at T1.
+
+Sample retention and exclusion. At T1, 742 participants completed the survey. Of these, 672 (90.6%) completed T2, and 631 (85.0% of T1) completed T3. Each wave included two attention-check items (e.g., “Please select ‘Strongly Agree' for this item”). We also screened for straight-line responding (selecting the same option for all items within a scale) and excessively fast completion (any single wave completed in under 3 min). After matching across all three waves and applying these exclusion criteria—excluding participants who failed attention checks (n = 17), exhibited patterned responding (n = 14), or completed any wave in under 3 min (n = 11)—the final analytic sample comprised 589 participants.
+
+Sample characteristics. The final sample (N = 589; Mage = 23.69, SD = 3.24; 51.1% female) included undergraduate students (54.3%), master's students (25.3%), doctoral students (8.0%), and young professionals (12.4%). Regarding AI use frequency, 14.1% reported using AI rarely, 20.4% occasionally, 26.5% sometimes, 23.6% frequently, and 15.4% very frequently. The mean duration of generative AI use experience was approximately 12 months. A comparison of participants who completed all three waves vs. those who dropped out revealed no significant differences in gender (χ2 = 0.91, p = 0.34), age (t = 1.08, p = 0.28), education level (χ2 = 2.45, p = 0.49), or T1 dependent offloading (t = 0.72, p = 0.47), suggesting that attrition was not systematically related to key study variables.
+
+3.2 Measures
+
+All scales were measured on 5-point Likert scales (1 = strongly disagree; 5 = strongly agree). Because existing instruments do not directly capture AI-specific offloading modes or cognitive agency transfer, we developed theory-grounded, context-specific measures drawing on the most theoretically relevant prior scales and adapting items for the generative AI context. We followed a streamlined scale-adaptation procedure designed to preserve content validity while keeping the instrument feasible for a multi-wave design, and translated all measures into Chinese using Brislin (1986)) back-translation. Item development involved three stages: (1) drafting 6–8 items per construct based on theoretical definitions and existing scales; (2) expert review by four subject-matter experts in educational psychology, organizational behavior, and human–AI interaction, who rated item relevance and clarity; and (3) pilot testing with 30 graduate students to identify ambiguous wording and task-context mismatches. Items with overlapping wording or unclear referents were revised or removed before the final survey. This procedure yielded 4 items per construct. We emphasize that these are preliminary, domain-specific instruments: the present evidence establishes internal consistency, convergent validity, and discriminant validity among the study constructs (Section 4.1), but full psychometric validation—including discriminant validity against measured adjacent constructs (e.g., AI dependency, critical AI literacy) and test–retest stability—remains for future work. Complete item wordings are provided in Appendix B.
+
+3.2.1 Time 1 measures
+
+Dependent cognitive offloading (4 items). Because no existing measure captures dependent cognitive offloading in the generative AI context, we developed items drawing on two sources: (1) the cognitive offloading framework (Risko and Gilbert, 2016), which defines offloading as delegating cognitive demands to external tools, and (2) the dependent help scale (Koopmann, 2016), which operationalizes help-seeking that fosters reliance on the helper. Items were rewritten to describe AI-specific behaviors in which users delegate core thinking to AI rather than engaging with the material themselves. A sample item is “When using AI for a task, I prefer to let AI generate the complete answer directly” [α = 0.773; composite reliability [CR] = 0.85; average variance extracted [AVE] = 0.59; corrected item–total correlations [CITC] ranged from 0.53 to 0.62].
+
+Autonomous cognitive offloading (4 items). Drawing on the autonomous help scale (Koopmann, 2016), we developed items capturing AI use in which the user retains cognitive agency—using AI outputs as inputs for further thinking rather than as final products. A sample item is “When using AI for a task, I use AI suggestions as a starting point for my own thinking” (α = 0.767; CR = 0.85; AVE = 0.59; CITC: 0.52–0.61).
+
+Metacognitive monitoring (4 items). Items were adapted from the metacognitive awareness inventory (Schraw and Dennison, 1994) to capture awareness and regulation during AI use. A sample item is “While using AI, I regularly check whether I truly understand the content rather than just accepting it” (α = 0.765; CR = 0.85; AVE = 0.59; CITC: 0.53–0.61).
+
+Task complexity (4 items). Items assessed the cognitive demands of tasks for which participants typically used AI (Kalyuga, 2007). A sample item is “The tasks for which I use AI often require integrating multiple perspectives” (α = 0.760; CR = 0.85; AVE = 0.58; CITC: 0.50–0.61).
+
+Control variables. We controlled for gender (1 = male, 2 = female), age, education level (1 = undergraduate, 2 = master's, 3 = doctoral, 4 = working professional), AI use frequency (1 = rarely to 5 = very frequently), and AI use experience (months).
+
+3.2.2 Time 2 measures
+
+Cognitive agency transfer (4 items). Because this construct is novel to the human–AI interaction literature and no existing measure captures it, we developed items directly from the theoretical definition: the progressive ceding of cognitive decision-making authority—about relevance, evaluation, and conclusion formation—to AI. A sample item is “I increasingly rely on AI to determine which information is most important for my tasks” (α = 0.773; CR = 0.86; AVE = 0.60; CITC: 0.52–0.63).
+
+Intrinsic motivation (4 items). Items were adapted from Shin and Zhou's (2003)) scale, modified for the AI use context. A sample item is “I feel genuinely interested in thinking through the problems I work on, even when AI could do it for me” (α = 0.837; CR = 0.89; AVE = 0.67; CITC: 0.63–0.71).
+
+Immediate benefit (4 items). Items captured perceived efficiency gains from AI use. A sample item is “Using AI allows me to complete tasks faster and with less effort” (α = 0.750; CR = 0.84; AVE = 0.58; CITC: 0.51–0.60).
+
+3.2.3 Time 3 measures
+
+Subsequent autonomous capability (4 items). Items assessed confidence and ability to perform similar tasks independently without AI, adapted from Nadler (2015)). A sample item is “I feel confident that I can handle similar tasks on my own without AI” (α = 0.793; CR = 0.87; AVE = 0.62; CITC: 0.57–0.65).
+
+Creativity (4 items). Items were adapted from Zhou and George (2001)) for the AI use domain. A sample item is “I can generate novel ideas and approaches when working on tasks in this domain” (α = 0.747; CR = 0.84; AVE = 0.57; CITC: 0.48–0.60).
+
+Deep processing (4 items). Items captured critical evaluation and elaboration of information (Craik and Lockhart, 1972). A sample item is “I carefully evaluate and think deeply about information rather than accepting it at face value” (α = 0.848; CR = 0.90; AVE = 0.69; CITC: 0.65–0.71).
+
+Independent judgment (4 items). Items assessed the ability to form conclusions without external support. A sample item is “I can independently evaluate information and reach well-reasoned conclusions” (α = 0.746; CR = 0.84; AVE = 0.57; CITC: 0.50–0.58).
+
+3.3 Analytical strategy
+
+We tested our hypotheses in Mplus 8.3 using maximum likelihood estimation. The CFA was estimated at the item level, with each construct represented by its four observed indicators. Missing item responses in the item-level CFA were handled with maximum likelihood estimation under the missing-at-random assumption. After establishing the measurement model, we estimated the hypothesized structural paths. The primary structural model used manifest (mean) scale scores for T1 predictors, T2 mediators, and T3 outcomes; we chose this specification for parsimony and stable estimation of the full mediated–moderated model (which involves 11 constructs, a latent interaction, and six covariates) at the available sample size. Because manifest scores do not correct for measurement error, we re-estimated the core mediation structure as a fully latent-variable SEM as a robustness check (Section 4.7), and we verified that the conclusions held across theoretically distinct subsamples (students vs. early-career workers; Section 4.7). For the structural path analyses, participants were retained when the relevant scale scores were available. Indirect effects were assessed using bias-corrected bootstrapping with 10,000 replications (Preacher and Hayes, 2008). For moderation hypotheses, we created interaction terms between mean-centered dependent offloading and mean-centered metacognitive monitoring. Model fit was evaluated using standard criteria: CFI ≥ 0.90, TLI ≥ 0.90, RMSEA ≤ 0.08, and SRMR ≤ 0.08 (Hu and Bentler, 1999).
+
+4 Results
+4.1 Measurement model
+4.1.1 Confirmatory factor analysis
+
+We first assessed the measurement model through CFA. The hypothesized 11-factor model (dependent offloading, autonomous offloading, metacognitive monitoring, task complexity, cognitive agency transfer, intrinsic motivation, immediate benefit, subsequent autonomous capability, creativity, deep processing, and independent judgment) showed acceptable fit: χ2(847) = 1825.22, CFI = 0.92, TLI = 0.91, RMSEA = 0.044, SRMR = 0.042. All standardized factor loadings were significant and ranged from 0.72 to 0.85 (mean = 0.78), exceeding the 0.50 threshold.
+
+To establish discriminant validity, we compared the hypothesized model against several theoretically meaningful alternatives (Table 1). The 11-factor model fit significantly better than a 10-factor model merging dependent and autonomous offloading (Δχ2 = 726.53, Δdf = 10, p < 0.001), supporting the treatment of these as distinct constructs. It also fit significantly better than a 10-factor model merging cognitive agency transfer and intrinsic motivation (Δχ2 = 1354.54, Δdf = 10, p < 0.001), supporting the distinctiveness of the two mediators. An 8-factor model merging all four T3 outcomes into a single factor showed substantially worse fit (Δχ2 = 1198.87, Δdf = 27, p < 0.001), supporting the treatment of the four cognitive outcomes as separate constructs. Finally, a 1-factor model fit poorly (Δχ2 = 4690.36, p < 0.001), suggesting that the observed pattern is unlikely to be an artifact of a single underlying method factor, although this test does not rule out shared method variance entirely.
+
+Table 1
+
+Model	χ2	df	CFI	TLI	RMSEA	Δχ2	Δdf
+11-factor (hypothesized)	1825.22	847	0.92	0.91	0.044	–	–
+10-factor (DO + AO merged)	2551.75	857	0.86	0.84	0.058	726.53***	10
+10-factor (CAT + IM merged)	3179.76	857	0.82	0.80	0.067	1354.54***	10
+8-factor (T3 outcomes merged)	3024.09	874	0.83	0.81	0.064	1198.87***	27
+1-factor	6515.58	902	0.51	0.47	0.102	4690.36***	55
+
+Confirmatory factor analysis: model comparisons.
+
+N = 589. DO, dependent offloading; AO, autonomous offloading; CAT, cognitive agency transfer; IM, intrinsic motivation. ***p < 0.001.
+
+4.1.2 Reliability and convergent validity
+
+Table 2 summarizes the reliability and convergent validity indices. All Cronbach's α values ranged from 0.746 to 0.848, exceeding the .70 threshold (Nunnally and Bernstein, 1994). All composite reliability (CR) values exceeded 0.84, and all average variance extracted (AVE) values exceeded .57, surpassing the respective .70 and .50 benchmarks (Fornell and Larcker, 1981). Corrected item–total correlations for all items exceeded .49.
+
+Table 2
+
+Time	Scale	Items	α	CR	AVE	
+√
+AVE
+√
+AVE
+	CITC range
+T1	Dependent offloading	4	0.773	0.85	0.59	0.77	0.53–0.62
+Autonomous offloading	4	0.767	0.85	0.59	0.77	0.52–0.61
+Metacognitive monitoring	4	0.765	0.85	0.59	0.77	0.53–0.61
+Task complexity	4	0.760	0.85	0.58	0.76	0.50–0.61
+T2	Cognitive agency transfer	4	0.773	0.85	0.60	0.77	0.52–0.63
+Intrinsic motivation	4	0.837	0.89	0.67	0.82	0.63–0.71
+Immediate benefit	4	0.750	0.84	0.58	0.76	0.51–0.60
+T3	Subsequent autonomous capability	4	0.793	0.87	0.62	0.79	0.57–0.65
+Creativity	4	0.747	0.84	0.57	0.76	0.48–0.60
+Deep processing	4	0.848	0.90	0.69	0.83	0.65–0.71
+Independent judgment	4	0.746	0.84	0.57	0.75	0.50–0.58
+
+Reliability and convergent validity of study measures.
+
+N = 589. α, Cronbach's alpha; CR, composite reliability; AVE, average variance extracted; CITC, corrected item–total correlation.
+
+4.1.3 Discriminant validity
+
+Discriminant validity was further evaluated using the Fornell–Larcker criterion: for every pair of constructs, the square root of each construct's AVE exceeded all inter-construct correlations (see Table 3), confirming that each construct was more strongly related to its own indicators than to any other construct.
+
+Table 3
+
+	Variable	M	SD	1	2	3	4	5	6	7	8	9	10	11
+1.	Dep. offloading (T1)	3.15	1.01	0.77										
+2.	Aut. offloading (T1)	3.21	0.98	0.08*	0.77									
+3.	Metacog. monitoring (T1)	3.24	0.98	−0.13**	0.15**	0.77								
+4.	Task complexity (T1)	3.12	1.00	0.26**	0.19**	0.03	0.76							
+5.	Cog. agency transfer (T2)	2.91	1.00	0.38**	−0.01	−0.12**	0.19**	0.77						
+6.	Intrinsic motivation (T2)	3.34	1.07	−0.19**	0.29**	0.35**	0.05	−0.11**	0.82					
+7.	Immediate benefit (T2)	3.49	0.94	0.22**	0.22**	0.06	0.27**	0.10*	0.13**	0.76				
+8.	Subseq. aut. capability (T3)	3.17	1.01	−0.23**	0.20**	0.33**	−0.02	−0.25**	0.39**	0.06	0.79			
+9.	Creativity (T3)	3.25	0.96	−0.13**	0.21**	0.20**	0.06	−0.17**	0.28**	0.12**	0.22**	0.75		
+10.	Deep processing (T3)	3.20	1.07	−0.16**	0.28**	0.29**	0.09*	−0.23**	0.39**	0.08*	0.29**	0.25**	0.83	
+11.	Indep. judgment (T3)	3.05	0.96	−0.30**	0.14**	0.25**	−0.01	−0.32**	0.34**	−0.00	0.28**	0.16**	0.23**	0.75
+
+Means, standard deviations, and correlations among study variables.
+
+N = 589. *p < 0.05; **p < 0.01. Values in bold on the diagonal are 
+√
+AVE
+ for each construct.
+
+4.2 Descriptive statistics and correlations
+
+Table 3 presents the means, standard deviations, and zero-order correlations among all study variables. The correlation patterns were consistent with the proposed theoretical model. Dependent offloading was positively correlated with cognitive agency transfer (r = 0.38, p < 0.001) and negatively correlated with intrinsic motivation (r = −0.19, p < 0.001). Autonomous offloading showed a non-significant correlation with cognitive agency transfer (r = −0.01, p = 0.83) but a positive correlation with intrinsic motivation (r = 0.29, p < 0.001). Importantly, the two offloading modes were only weakly correlated with each other (r = 0.08, p = 0.049), suggesting they represent largely independent dimensions rather than opposite poles of a single continuum.
+
+Cognitive agency transfer was negatively correlated with all four T3 outcomes (rs from −0.17 to −0.32, all ps < 0.001), and intrinsic motivation was positively correlated with all four T3 outcomes (rs from 0.28 to 0.39, all ps < 0.001).
+
+4.3 Structural model: direct effects
+
+The structural model with T1 predictors, T2 mediators, and T3 outcomes (controlling for gender, age, education level, AI use frequency, AI use experience, and task complexity; see Figure 2 for an overview) demonstrated good fit: χ2(52) = 138.47, CFI = 0.96, TLI = 0.93, RMSEA = 0.053, SRMR = 0.038.
+
+Figure 2
+
+Structural model results with standardized path coefficients. Solid lines represent significant paths; dashed gray lines represent non-significant paths; dashed blue lines represent moderation effects. ***p < 0.001, **p < 0.01. N = 589. Control variables (gender, age, education level, AI use frequency, AI use experience, and task complexity) included but not shown.
+
+4.3.1 Effects on mediators
+
+Consistent with Hypothesis 1, dependent offloading was positively associated with cognitive agency transfer (B = 0.35, SE = 0.04, p < 0.001, β = 0.35). Consistent with Hypothesis 2, autonomous offloading was not significantly associated with cognitive agency transfer (B = −0.05, SE = 0.04, p = 0.18, β = −0.05). Supporting Hypothesis 3, dependent offloading was negatively associated with intrinsic motivation (B = −0.25, SE = 0.04, p < 0.001, β = −0.23). Supporting Hypothesis 4, autonomous offloading was positively associated with intrinsic motivation (B = 0.30, SE = 0.04, p < 0.001, β = 0.28).
+
+4.3.2 Effects on outcomes
+
+Table 4 presents the path coefficients from T2 mediators to T3 outcomes. Consistent with Hypothesis 5 (a–d), cognitive agency transfer was negatively associated with all four outcomes. Consistent with Hypothesis 6 (a–d), intrinsic motivation was positively associated with all four outcomes. The associations involving intrinsic motivation were notably stronger and more consistent across outcomes (standardized βs from 0.26 to 0.36) than those involving cognitive agency transfer (βs from −0.15 to −0.29), suggesting that the motivational pathway may be the more potent channel linking offloading modes to subsequent cognition.
+
+Table 4
+
+	Subsequent capability	Creativity	Deep processing	Independent judgment
+Predictor	β	p	β	p	β	p	β	p
+Cog. agency transfer	−0.21	<0.001	−0.15	<0.001	−0.21	<0.001	−0.29	<0.001
+Intrinsic motivation	0.36	<0.001	0.26	<0.001	0.36	<0.001	0.30	<0.001
+R2	0.20	0.11	0.20	0.20
+
+Structural model: effects of T2 mediators on T3 cognitive outcomes.
+
+N = 589. Standardized coefficients reported. Controls (gender, age, education level, AI use frequency, AI use experience, and task complexity) included but not shown.
+
+4.4 Mediation: indirect effects
+
+Table 5 reports the bootstrapped indirect effects. Supporting Hypothesis 7a, the indirect effects of dependent offloading through cognitive agency transfer were significant for all four outcomes: subsequent autonomous capability [β = −0.07, 95% CI [−0.11, −0.04]], creativity [β = −0.05, 95% CI [−0.09, −0.02]], deep processing [β = −0.07, 95% CI [−0.11, −0.04]], and independent judgment [β = −0.10, 95% CI [−0.14, −0.07]]. Supporting Hypothesis 7b, the indirect effects through intrinsic motivation were also significant: subsequent autonomous capability [β = −0.09, 95% CI [−0.12, −0.05]], creativity [β = −0.06, 95% CI [−0.09, −0.03]], deep processing [β = −0.08, 95% CI [−0.12, −0.05]], and independent judgment [β = −0.07, 95% CI [−0.11, −0.04]].
+
+Table 5
+
+IV	Outcome	Mediator	β	95% CI
+Dep. offloading	Subseq. aut. capability	CAT	−0.07	[−0.11, −0.04]
+Subseq. aut. capability	IM	−0.09	[−0.12, −0.05]
+Creativity	CAT	−0.05	[−0.09, −0.02]
+Creativity	IM	−0.06	[−0.09, −0.03]
+Deep processing	CAT	−0.07	[−0.11, −0.04]
+Deep processing	IM	−0.08	[−0.12, −0.05]
+Indep. judgment	CAT	−0.10	[−0.14, −0.07]
+Indep. judgment	IM	−0.07	[−0.11, −0.04]
+Aut. offloading	Subseq. aut. capability	IM	0.10	[0.07, 0.14]
+Creativity	IM	0.07	[0.04, 0.10]
+Deep processing	IM	0.10	[0.07, 0.14]
+Indep. judgment	IM	0.08	[0.05, 0.12]
+
+Bootstrapped indirect effects of cognitive offloading on T3 outcomes via T2 mediators.
+
+N = 589. Standardized indirect effects with bias-corrected 95% CIs from 10,000 bootstrap replications. CAT, cognitive agency transfer; IM, intrinsic motivation; IV, independent variable.
+
+Supporting Hypothesis 8, autonomous offloading showed significant positive indirect effects on all four outcomes through intrinsic motivation: subsequent autonomous capability [β = 0.10, 95% CI [0.07, 0.14]], creativity [β = 0.07, 95% CI [0.04, 0.10]], deep processing [β = 0.10, 95% CI [0.07, 0.14]], and independent judgment [β = 0.08, 95% CI [0.05, 0.12]]. As expected, the indirect effects of autonomous offloading through cognitive agency transfer were not significant (all 95% CIs included zero).
+
+4.5 Moderation: metacognitive monitoring
+
+To test Hypotheses 9 and 10, we added the interaction term of mean-centered dependent offloading × mean-centered metacognitive monitoring as a predictor of both T2 mediators.
+
+Supporting Hypothesis 9, the interaction significantly predicted cognitive agency transfer (B = −0.14, SE = 0.04, p < 0.001). Simple slope analysis revealed that the positive association between dependent offloading and cognitive agency transfer was stronger when metacognitive monitoring was low (−1 SD: β = 0.48, p < 0.001) than when it was high (+1 SD: β = 0.21, p < 0.001). Importantly, dependent offloading remained a significant predictor even at high metacognitive monitoring, indicating that metacognitive awareness attenuates but does not eliminate the association.
+
+Hypothesis 10, however, was not supported. The interaction between dependent offloading and metacognitive monitoring did not significantly predict intrinsic motivation (B = 0.01, SE = 0.04, p = 0.72). The negative association between dependent offloading and intrinsic motivation was comparable at low metacognitive monitoring (−1 SD: β = −0.19, p < 0.001) and high metacognitive monitoring (+1 SD: β = −0.17, p < 0.001), suggesting that metacognitive awareness does not buffer the motivational costs of dependent offloading.
+
+4.6 Additional analysis: the role of immediate benefit
+
+Immediate benefit (T2) was positively correlated with both dependent offloading (r = 0.22) and autonomous offloading (r = 0.22, both ps < 0.001), indicating that both offloading modes are associated with comparable short-term perceived gains. However, immediate benefit showed weak and largely non-significant associations with T3 cognitive outcomes (subsequent autonomous capability: r = 0.06, p = 0.14; independent judgment: r = −0.00, p = 0.91). This pattern is consistent with the possibility that immediate utility does not differentiate between offloading strategies that are associated with more vs. less favorable downstream correlates. We return to the interpretation of this dissociation in the Discussion, where we are careful not to over-read it.
+
+4.7 Robustness checks
+4.7.1 Latent-variable specification
+
+Because the primary structural model used manifest scale scores, which do not correct for measurement error, we re-estimated the core mediation structure as a fully latent-variable SEM, with each of the ten substantive constructs represented by its four indicators and the same set of covariates. The latent model fit the data well, χ2(891) = 938.85, CFI = 0.99, TLI = 0.99, RMSEA = 0.010. As shown in Table 6, all structural conclusions were reproduced: every path retained its sign and significance status, dependent offloading remained positively associated with cognitive agency transfer and autonomous offloading unrelated to it, the two predictors retained their opposite associations with intrinsic motivation, and the two mediators retained their opposite associations with all four outcomes. The latent coefficients were comparable to, and in several cases slightly larger than, their manifest-score counterparts—the expected consequence of correcting for attenuation due to measurement error—indicating that the manifest-score estimates were, if anything, conservative.
+
+Table 6
+
+Path	Manifest β	Latent β
+T1 predictors→T2 mediators
+Dep. offloading → cognitive agency transfer	0.35***	0.43***
+Aut. offloading → cognitive agency transfer	−0.05	−0.06
+Dep. offloading → intrinsic motivation	−0.23***	−0.22***
+Aut. offloading → intrinsic motivation	0.28***	0.27***
+T2 mediators→T3 outcomes
+Cognitive agency transfer → subseq. aut. capability	−0.21***	−0.24***
+Intrinsic motivation → subseq. aut. capability	0.36***	0.40***
+Cognitive agency transfer → creativity	−0.15***	−0.17**
+Intrinsic motivation → creativity	0.26***	0.26***
+Cognitive agency transfer → deep processing	−0.21***	−0.24***
+Intrinsic motivation → deep processing	0.36***	0.35***
+Cognitive agency transfer → indep. judgment	−0.29***	−0.29***
+Intrinsic motivation → indep. judgment	0.30***	0.30***
+
+Manifest- vs. latent-variable structural estimates (standardized).
+
+N = 589. Standardized coefficients. The manifest column reproduces the primary structural model (Sections 4.3.1–4.3.2); the latent column is the fully latent-variable SEM (each construct measured by four indicators), which fit the data well, χ2(891) = 938.85, CFI = 0.99, TLI = 0.99, RMSEA = 0.010. Both models include gender, age, education level, AI use frequency, AI use experience, and task complexity as covariates. **p < 0.01; ***p < 0.001.
+
+4.7.2 Students vs. early-career workers
+
+To assess whether combining university students (n = 516) with early-career workers (n = 73) obscured group differences, we re-estimated the key paths separately in each subgroup. The overall pattern held in both: dependent offloading was positively associated with cognitive agency transfer (students β = 0.40; workers β = 0.30; both p ≤ 0.011), autonomous offloading was unrelated to it in both groups, and the two mediators showed the expected opposite associations with the four outcomes in both groups (all signs consistent). As expected given the small worker subsample, a few worker-group coefficients did not reach significance (e.g., cognitive agency transfer to subsequent autonomous capability, β = −0.15, p = 0.16), but none reversed direction. Formal moderation tests (group × dependent offloading) were non-significant for the cognitive agency transfer pathway (β = −0.10, p = 0.36) but significant for the motivational pathway (β = −0.26, p = 0.022): the negative association between dependent offloading and intrinsic motivation was somewhat stronger among workers (β = −0.47) than students (β = −0.18). We interpret this single group difference cautiously given the modest worker sample, but it suggests that the motivational cost of dependent offloading may be at least as pronounced outside educational settings—an issue we flag for future, adequately powered comparisons.

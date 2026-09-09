@@ -1,0 +1,16 @@
+Data appendix for brief 01 (derived from the original piece's chart notes; interpretation removed)
+
+Context: UK online job adverts nearly halved from their 2022 peak; pre-period 2019 (year-on-year), post-period 2023–2026 Q1.
+
+Composite occupational AI exposure score: weighted average of percentile ranks across Felten et al (2021, 2023), Henseke et al (2026), Anthropic Economic Index (March 2026); Eloundou et al (2023) as robustness measure. Reconstructed on UK SOC/SIC employment data with pre-treatment employment weights.
+
+Validation of composite score against reported AI adoption: Bank of England Decision Maker Panel, Spearman rho = +0.68, p = 0.006, n = 15 industries; ONS BICS, rho = +0.85, p < 0.001, n = 14 industries.
+
+Occupation level (SOC two-digit sub-major groups, n = 26): Spearman correlation between composite AI exposure and growth in advertised vacancies = -0.70, p < 0.001.
+
+Vacancy growth by exposure tercile (online job adverts, 2019 vs 2023–26 Q1): high exposure -15%; mid exposure -10%; low exposure -6%.
+Occupations with sharpest declines: customer service -23%; administrative occupations -22%.
+
+Industry level (SIC sections, VACS02 vacancy-rate YoY growth 2023–26 Q1 vs employment-weighted mean composite exposure): Spearman rho = +0.08.
+
+Share of sector workforce employed in top-exposure-tercile occupations (APS 2022 SIC-SOC weights): Finance 84%; ICT 81%; Professional services 63%.

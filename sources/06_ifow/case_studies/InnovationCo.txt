@@ -1,0 +1,64 @@
+Building groundwork for responsible AI to modernise a safety-critical and unionised sector (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/using-ai-to-modernise/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+This case study looks at how a strategic innovation company navigated the sector's structural challenges while introducing an AI tool for maintenance planning.
+
+Profile
+
+This case study was initiated by a strategic innovation company with fewer than 50 people, referred to here as InnovationCo, working inside a larger arm's-length public body. Its mission was to use technology to modernise a sector that was traditionally slow to change. Without an internal HR team, InnovationCo relied on the public body's central HR for people support.
+
+To support the action research, a working group of mostly engineers and an ergonomics specialist was formed. Their goal was to expand the use of computer vision for undertaking visual inspection activities, in line with national policy. While HR was not part of the working group, IFOW spoke with a national HR lead to gain broader insights into the parent organisation's culture and constraints.
+
+Operational context
+
+InnovationCo operated in a traditional, safety-critical sector that had a strong union presence. Small changes to processes or how people work could have major ripple effects on safety standards and management practices and trigger formal engagement with the trade union. These factors created an uncertain environment for innovation and use of the technology that was available. As AI use and its impacts grew, many employees experienced high levels of anxiety.
+
+Challenge
+
+The main hurdle was the parent organisation's fragmented structure and outdated processes. Because the project was initially built for technical safety, there was no space for the team to formally flag – early on – how AI could change their daily work as use changed and impacts accumulated. As a result, complex problems were obscured.
+
+This created a ripple effect of challenges:
+
+- Fragmented decision-making. Without a clear way to 'own' decisions, teams worked in silos. For example, the parent organisation's national HR lead saw the risk of 'tissue rejection' from the workforce and recommended early, frequent engagement with union colleagues. However, HR involvement was not built in to the pilot phase.
+- Outsourced strategy. In the absence of internal governance that aligned and clearly applied to the pilot, the technology provider began to steer the project. This risked aligning the AI tool with the technology provider's goals rather than the needs of the engineers.
+- Operational paralysis. Teams showed signs of feeling stuck. They wavered between focusing on the pilot at hand and worrying about broader organisational implications. Information wasn't shared across regions, which reduced peer learning and increased the risk of the AI's tissue rejection.
+
+Ultimately the lack of a coordinated approach and shared vision meant that the AI maintenance planner was being implemented for employees, rather than being designed deliberately to augment their discretion and skills. The team could see that redesigning workflows could be a helpful way to break through these organisational hurdles. But this remained a thought exercise rather than a practical shift because they felt they lacked the authority to change them.
+
+What they did
+
+To help InnovationCo understand barriers to effective and responsible AI adoption, IFOW led a series of interviews and workshops to create space for dialogue. The goal was to move beyond the technical and surface human opportunities and risks for those involved.
+
+Through interviews and observing a safety workshop and team meetings, IFOW identified that while the lead engineers were highly engaged, other critical functions like HR remained at a distance. This confirmed that the challenge wasn't just technical. The deeply rooted organisational hierarchy and traditional processes made cross-functional collaboration difficult.
+
+Engineers, parent organisation leads and the technology provider came together to do the three targeted activities at a workshop run by IFOW:
+
+- Simplified system mapping. Participants mapped out how information about the AI implementation, and its impacts, flowed. This helped everyone see the system and identify who really needed to be in the room for decisions on the AI tool. It also gave them a chance to discuss openly the challenges they perceived and were experiencing.
+- Augmentation journey. Participants looked at the evolution of the AI tool, from an individual engineer's resource for fault detection towards a coordinated system for planning preventative maintenance. They discussed the ways an engineer's skills, discretion and judgment could be augmented over time. This helped identify key decisions on how the AI tool could impact work and workflows in different ways.
+- Defining success. Participants began identifying measurable indicators of success to capture the people impacts alongside technical ones.
+
+After the workshop, IFOW met with the working group to translate the workshop themes into actionable insights. The working group realised that a single regional use case could not be viewed in isolation, so the discussion shifted to process and governance gaps at national level:
+
+- Gap in responsibility. Current innovation processes didn't allow for a systematic, cross-functional assessment of the AI tool. This meant that the people impact was a major strategic risk, but the responsibility for assessing the impacts was left to individual project teams.
+- Risk of escalation. Given the sector's strong trade union presence, leaving the people impact unaddressed at organisational level risked increasing the possibility of future conflict. If significant risks around changing responsibilities in safety-critical areas surfaced too late, disputes could escalate.
+- Barriers to innovation. Outdated processes and rigid efficiency targets worked against the project because they didn't capture social or secondary impacts. Instead, they drove up a sense of pace and anxiety that restricted the team from reflecting on how best to use the time freed up by the AI tool.
+- The value of job design. Considering the job design of those affected by the AI tool should be built into the procurement and pilot phases and revisited as the tool evolved to help surface impacts and shape the implementation of AI. It shouldn't be a one-off exercise.
+
+Outcomes
+
+During the period of collaboration, the AI adoption shifted from technical implementation towards a broader, strategic organisational evolution. The action research process surfaced four key outcomes:
+
+- Secured leadership buy-in. Senior management at the public body were engaged to trigger and require a formal change management process. They recognised that these systemic challenges must be addressed at a national level, rather than being left to local teams.
+- Proactive union engagement. The working group considered bringing trade union representatives into the conversation early, before formal consultation. Joint working groups were considered in neglected areas like job design, human control over decisions and procurement. This shows a willingness to move towards a more transparent, more collaborative relationship in the context of AI adoption, by identifying new themes and challenges where there is a shared interest.
+- A strategic pause for better design. Internal innovation processes were paused to allow for a deeper look at cumulative impacts and sharing insight across different pilots and regions. This led to a proposal for a new work design panel within the ergonomics function so that the people impact could be mapped properly before moving forward.
+- New holistic metrics. The public body began to develop an augmentation policy and reviewing its efficiency metrics, which were also considered as part of a national review. New success indicators are being considered to move beyond simple technical output, which includes better information sharing and tracking the people impact of AI.
+
+The progress that was observed provides a vital starting point. To ensure a responsible and effective rollout, the senior leadership should aim to translate these early wins into a long-term strategy that puts job design through AI implementation at the heart of the project's success.
+
+Learning points
+
+- Prioritise cross-functional engagement. Integrating AI is not a purely technical project. Early involvement from HR and operational teams avoids fragmented decision-making and ensures systemic impacts are understood across the entire organisation.
+- Formalise change management to break silos. Ad-hoc testing without a clear roadmap risks reinforcing information silos and limiting what the organisation can learn. To ensure a responsible rollout, the organisation must establish formal governance and clear channels for sharing knowledge.
+- Take ownership of job design. While technology providers engage with end-users, their commercial interests don't guarantee a focus on people impacts. Organisations must take the lead in assessing how AI will change work and augment people's skills and judgment.
+- Set strategy early to prevent drift. Strong internal governance prevents external interests from taking the lead. Setting clear objectives from the start ensures the technology remains a tool for the organisation's priorities, not the other way round.

@@ -1,0 +1,17 @@
+Data appendix for brief 02 (derived from the original piece's chart notes; interpretation removed)
+
+Measure: average contribution to year-on-year UK output-per-hour growth, in percentage points, by industry. Periods compared: 2010–19 ("pre-Covid") and 2023–25 ("post Gen AI"). Source: ONS output per hour by industry; author's calculations in the ONS Secure Research Service.
+
+Chart 1 (industry contributions, both periods): largest contributor in 2023–25 is the ICT sector. The ICT contribution was higher in 2010–19, driven mainly by telecommunications quality adjustments (coverage, broadband speeds). Administrative and support activities and Manufacturing contribute positively in 2023–25. Financial and insurance activities contribute negatively in 2023–25.
+
+Chart 2 (ICT sector by section, telecommunications excluded):
+- SIC 62 Computer programming, consultancy and related activities: contribution 0.01 pp (2010–19) to 0.10 pp (2023–25).
+- SIC 63 Information services activities: negative contribution (2010–19) to +0.06 pp (2023–25).
+
+SIC codes referenced: 63110 Data processing, hosting and related activities; 62012 Business and domestic software development; 62020 Computer consultancy activities.
+
+Chart 3 (administrative and business services by section): Office administrative and business services activities contributed most to aggregate productivity growth in 2023–25, having been a drag in 2010–19.
+
+Chart 4 (cross-industry): change in average quarterly industry contribution to annual labour productivity growth, 2023–25 relative to 2010–19, against AI adoption (percentage of companies in the industry that used any form of AI up to December 2025, ONS BICS). Fitted line y = 0.105x – 1.3918; slope p-value = 0.065; R-squared = 0.1028.
+
+US context stated in the piece: AI adoption, while still limited, is linked to productivity gains across industries in the US but explains only a small fraction of the aggregate pick-up in US productivity.

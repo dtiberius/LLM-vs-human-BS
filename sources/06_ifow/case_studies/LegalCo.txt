@@ -1,0 +1,37 @@
+How a law firm introduced an AI legal assistant (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/ai-legal-assistant/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+This case study focused on an international law firm headquartered in the UK, referred to here as LegalCo. When IFOW engaged with LegalCo, employees in the legal and business functions had been using the firm's AI legal assistant for a year.
+
+Operational context
+
+LegalCo saw AI as just a way to use new technology to better support their lawyers and clients. Unlike many of their competitors, LegalCo's lawyers were keen to experiment with new technology due to LegalCo's pro-technology culture. Having internal technology experts enabled the firm to turn that interest into useful tools for the lawyers. Employees said their AI legal assistant was "more sophisticated" and "better suited for legal work" than their competitors.
+
+What they did
+
+LegalCo did not share a formal AI strategy with IFOW, but it was clear from the interviews that the senior leadership were united on what they wanted to achieve. With leaders setting the example, employees got on the same page from the start. This early alignment made it easier to manage change across the firm. Leaders directly addressed concerns around AI taking away jobs, explaining that AI wouldn't be used to cut support roles. They encouraged everyone to try the AI legal assistant for themselves and share learnings with each other. This lowered anxiety and made using AI feel more like a normal part of the day.
+
+To ensure a smooth introduction of the AI legal assistant, LegalCo did the following:
+
+- Created a cross-functional steering group. This group met every two weeks and included employees and senior leaders from both the legal and business functions. They made sure the rollout stayed on track and discussed new features and training approaches. They also adapted their plans as they learnt what was working and what wasn't.
+- Mandatory training. No one could use the AI legal assistant until they'd finished the mandatory training. These sessions included live and recorded training, some of which were run by the technology provider.
+- Firm-led partnership with the technology provider. LegalCo worked closely with the technology provider to give feedback. The firm stayed focused on their goals rather than letting the technology provider dictate the process.
+- Lead by example. Senior lawyers didn't just tell others to use the AI legal assistant, they used it themselves too. They openly shared with junior lawyers what worked – and what didn't – and encouraged everyone to experiment.
+- HR support. The HR team emailed weekly tips and built a champions network of employees who were skilled at using the AI legal assistant. They also gave out innovation awards and 'spotlight' features to celebrate success.
+- Verify is the golden rule. LegalCo constantly repeated the mantra, "verify, verify, verify". They made a strict rule that a human must check every AI output to ensure that it's accurate.
+
+Challenge
+
+Despite a well-executed rollout, two challenges emerged as a result of using the AI legal assistant.
+
+Firstly, it shifted the way newly qualified and junior lawyers learned. The AI legal assistant gave them more independence and instant feedback on their work. It also helped them draft and review documents more quickly. But there were concerns that relying too much on AI might negatively affect how they developed their core legal skills. To address this, managers gave informal on-the-job feedback and formal amendments to L&D were planned to address these concerns.
+
+Secondly, it increased workloads and digital fatigue. Lawyers said their workloads actually increased because they had to respond to a higher volume of AI-generated messages from opposing parties. This sometimes made cases more contentious and harder for both sides to reach an agreement. The shift also pushed aside a key part of the profession – the human touch that comes from engaging directly with people.
+
+Learning points
+
+- Organisations should make AI rollout people-centred by pairing encouragement with clear non-negotiables. LegalCo encouraged employees to use the AI legal assistant by having senior lawyers set an example and invite junior lawyers to try. This normalised the AI legal assistant as a day-to-day resource. To maintain quality, the firm set a strict rule to "verify, verify, verify". This combination reassured employees that experimentation was safe while keeping human judgment at the heart of their work.
+- AI integration should be steered with a cross-functional team to ensure organisational alignment. Managing a rollout through a cross-functional team that included senior leaders from legal, business services, HR, technology and practice ensures that every department moves in sync. LegalCo's cross-functional steering group met every two weeks to coordinate features, training and internal messaging. This joined-up approach ensured employees received consistent information and support.
+- Authenticity should be protected by defining tasks that must be human-led. While the AI legal assistant can structure documents, an over-polished draft could "sound like AI" and lose the personal texture required. By designating human-led tasks, LegalCo protected trust and personal connection to essential legal work.
+- Learning and development pathways should be redesigned to safeguard foundational skills. As the AI legal assistant takes over doing first drafts, junior lawyers shifted more quickly into editing and higher-order reasoning tasks. While this fast-tracked their exposure to complex tasks, there is a risk they'd miss out on mastering the core principles of legal drafting. To counter this, managers adapted their informal feedback to focus on legal reasoning during reviews. This points to the need for structured learning pathways that protect foundational skill development as AI reshapes early-career roles.

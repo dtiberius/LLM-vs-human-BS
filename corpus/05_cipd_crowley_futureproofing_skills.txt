@@ -1,0 +1,99 @@
+Futureproofing your skills: AI is changing how HR skills are applied
+
+Artificial intelligence is often framed as a technology challenge, with attention focused on tools, infrastructure and access to expertise.
+
+However, CIPD research suggests that the more immediate constraint lies in how organisations apply their existing capabilities to manage change. Drawing on a survey conducted in January and February 2026 of more than 1,300 senior leaders and HR professionals, the research benchmarks confidence in the key skills needed to support effective and responsible AI adoption.
+
+Many of these skills, such as workforce planning, job design and employee engagement, are already well established within HR and leadership roles.
+
+The gap is in their application. As AI reshapes jobs, tasks and workflows, leaders and HR professionals are less confident using these capabilities to redesign work, plan future skills needs and manage workforce transition.
+
+Find out more in the article below, part of CIPD's work with the UK government-funded Innovate UK BridgeAI programme.
+
+Many of the core skills already exist
+
+There are clear strengths across senior leaders and people professionals.
+
+Senior leaders report relatively high confidence in identifying opportunities for AI and balancing innovation with risk. HR leaders are particularly confident in areas such as ethical data use (68% agree) and challenging decisions that could negatively affect the workforce (67% agree).
+
+At practitioner level, many HR professionals are already adapting, with a majority confident in learning how to use AI tools (67%) and understanding their limitations (64%).
+
+This matters. It suggests the issue is not simply a lack of skills, but how effectively they are being applied in practice.
+
+Confidence falls when organisations need to rethink work
+
+The picture changes when AI moves beyond adoption and into organisational change.
+
+Confidence is lower in areas that require work to be redesigned and delivered differently. Among HR leaders, only around one third feel confident estimating future workforce needs arising from AI, and confidence is also mixed when it comes to designing reskilling pathways (just 40% agree) and leading job redesign (46%).
+
+A similar pattern appears among senior leaders. While many are confident setting direction, fewer feel confident understanding legal responsibilities or communicating AI strategy clearly.
+
+This points to a clear divide. Leaders and HR professionals are relatively comfortable introducing AI into existing ways of working, but less confident when it comes to reshaping roles, skills and workforce strategy around it.
+
+Stronger self-assessed capability is linked to better outcomes
+
+This is not just about confidence. It is reflected in outcomes.
+
+Across the survey, organisations at which leaders and HR professionals cite higher levels of confidence in the skills needed to support AI adoption are more likely to report improvements in workers' job performance.
+
+For example, among organisations where HR leaders express higher confidence in these skills, close to nine in 10 report that AI has improved workers' job performance. Among those where confidence is lower, this falls to around half, with many reporting little or no impact.
+
+The same pattern is seen across senior leaders and HR practitioners. As confidence in key skills increases, so too does the likelihood that AI is associated with improved performance rather than making no difference.
+
+This suggests that outcomes are shaped not simply by access to technology, but by how effectively leaders and HR professionals apply these skills in practice.
+
+Reported impact of AI on workers' job performance by capability level and role (% reporting improved job performance)
+
+Sample size HR professionals 556; HR leaders: 97 and Senior leaders 353
+
+Source: The survey was conducted on behalf of the CIPD by YouGov, between 14 January and 3 February 2026. The total sample size was 1,342 people professionals and business leaders.
+
+Adoption without job redesign limits impact
+
+Looking more closely at the data helps explain why.
+
+At earlier stages of adoption, where AI use is ad hoc or experimental, organisations are less likely to report improvements in performance. Many report that AI has made little or no difference.
+
+By contrast, where AI is integrated into workflows and business processes, reported improvements are much higher, particularly in organisations with stronger HR and leadership capability.
+
+This reinforces a key point: the benefits of AI are realised not through adoption alone, but through how work is redesigned around it.
+
+Expectations about workforce impact become more realistic
+
+There are also clear differences in how leaders and HR professionals view the impact of AI on headcount. Among those with lower levels of confidence in the skills needed to support AI adoption, expectations are dominated by no change, with around seven in 10 anticipating no impact on headcount.
+
+As confidence in these skills increases, this shifts. Respondents are less likely to expect no impact and more likely to anticipate some form of workforce change.
+
+This pattern is particularly evident among senior leaders, where the proportion expecting no impact falls from 73% to 47%, alongside a notable increase in those anticipating growth.
+
+Across both senior and HR leaders, higher levels of confidence in key skills are associated with a more defined view of workforce impact, rather than a default assumption of no change.
+
+Expected impact of AI on headcount in the next 12 months, by role and capability (%)
+
+Sample size: HR leaders: 97 and Senior leaders: 353
+
+Source: The survey was conducted on behalf of the CIPD by YouGov, between 14 January and 3 February 2026. The total sample size was 1,342 people professionals and business leaders.
+
+Why this gap is emerging
+
+This pattern is not surprising. Most organisations have developed their skills, structures and processes around relatively stable roles and incremental change, where adjustments to work tend to be discrete and predictable.
+
+AI introduces a different dynamic, reshaping the mix of tasks within jobs, how decisions are made and how work is organised, often simultaneously. This creates a need for more continuous and interconnected adaptation of work, rather than one-off changes.
+
+What this means for HR and leaders
+
+For HR and business leaders, the challenge is less about acquiring entirely new skills and more about applying existing ones in new ways.
+
+Three priorities stand out:
+
+Move from static to dynamic workforce planning: Planning needs to reflect how tasks and skills are evolving, not just changes in headcount.
+Strengthen job and work design capability: Job design is the bridge between AI adoption and improved performance and job quality.
+Work more closely across functions: AI decisions are often led outside HR, but their impact is organisation wide. Early involvement is critical.
+
+Conclusion
+
+AI is not simply creating a new set of skill requirements. It is changing how organisations use the skills they already have.
+
+The evidence shows that organisations with stronger HR and leadership capability are more likely to translate AI adoption into improved performance outcomes. Many of the foundations are already in place. The priority now is to apply them more consistently and strategically to manage workforce change.
+
+For HR and leaders, this means applying these capabilities more consistently in areas such as workforce planning, job design and reskilling, where confidence is currently weakest.

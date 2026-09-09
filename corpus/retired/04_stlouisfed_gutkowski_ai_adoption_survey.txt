@@ -1,0 +1,52 @@
+New Survey Findings on AI Adoption and Its Effects on Employment and Productivity
+
+KEY TAKEAWAYS
+AI adoption among Eighth District firms is still in its early stages, with most reporting experimental or limited use of the technology. Nonadopters cite gaps in skills, data, technical infrastructure or business needs.
+Firms using AI report meaningful efficiency gains, especially through reduced time spent on administrative or routine tasks.
+Most firms expect little to no AI-related staffing changes in the next year, though many foresee a shift in the types of skills their workforce will need.
+AI is helping firms expand capacity and output with existing staff, supporting growth rather than driving job reductions (so far).
+
+Adoption of artificial intelligence (AI) tools in the workplace holds significant implications for employment and productivity growth. National survey evidence shows generative AI is being adopted as rapidly as personal computers were in the 1980s, with potential but uncertain productivity growth implications.
+
+This blog post aims to contextualize this topic by providing new survey-based evidence on AI adoption. The Federal Reserve Bank of St. Louis conducts a quarterly survey of businesses across the Fed's Eighth District1 to gain a deeper understanding of prevailing economic conditions. Special questions were included in the May survey to gauge businesses' use of AI and potential reasons for limited or no adoption, as well as the technology's expected impact on the workforce and productivity over the next 12 months.
+
+Early Stages of AI Tools Adoption
+
+As shown in the figure below, most firms reported being in the early stages of adoption.
+
+34% said AI tools were used regularly by a small share of employees.
+25% said AI tools were being tested or piloted but not used regularly.
+11% reported no adoption.
+
+Multiple firms reported that AI is an active topic of discussion and they are exploring how it may affect future labor needs and productivity, although no material operational changes were made during the past three months. For example, a hospital system reported that it is adopting AI into workflows gradually, rather than implementing broad, systemwide changes.
+
+Efficiency Gains from AI Adoption
+
+Firms that have implemented AI generally cited efficiency gains, particularly through reduced time spent on administrative and routine tasks.
+
+Some firms reported significant efficiency gains from AI implementation. For example, one professional services firm reported that AI adoption supported 35% revenue growth over the past year without additional staff, indicating increased service capacity. Another professional services firm reported 15% growth in revenue per employee from AI-supported productivity gains. Similarly, a law firm estimated two to three hours of weekly efficiency gains per attorney from AI tools that improved research, deposition summaries and first-draft preparation.
+
+Reasons for Limited or No Adoption
+
+About one-third of survey respondents reported limited or no adoption of AI. These contacts were asked a follow-up question to understand the reasons why. The results are displayed in the next figure.
+
+The most cited reason for not adopting AI was lack of skills, data or technical infrastructure (38%).
+Closely following was the perception that AI tools are not yet useful for business needs (34%).
+
+For example, a nonprofit reported minimal AI adoption due to budget constraints and an older workforce. A healthcare contact noted limited workforce training for tools like Microsoft Copilot leading to uneven adoption and productivity gaps across teams. A banker reported that concerns about AI-related risks, such as hallucinations and insufficient system controls, currently limit broader adoption.
+
+Employment Effects within the Next 12 Months
+
+Nearly half of all respondents (49%) expected no noticeable effect on staffing due to AI within the next 12 months. (See the following figure.) Some firms emphasized that AI is enabling them to do more with the same workforce—expanding output and increasing sales—rather than reduce payroll.
+
+For example, an accounting firm reported that AI increased output capacity by 30% to 40%, reducing the need for a planned staff expansion. About 18% of respondents expected skill shifts rather than headcount changes.
+
+Nearly 20% expected slight reductions in staffing needs due to AI adoption. For example, a restaurant operator reported that AI order-taking eliminated a drive-thru position; and a tourism contact noted that while AI was not yet affecting staffing, reductions were expected within two years.
+
+Conclusion
+
+Eighth District survey results indicate that AI adoption remains limited but promising. Early adopters are already seeing efficiency gains, while nonadopters mainly face capability or infrastructure gaps. Most firms expect stable staffing levels in the near term, though many anticipate shifting skill needs. Overall, AI is helping businesses expand capacity with their existing workforces, supporting growth rather than reducing jobs.
+
+Note
+
+1. Headquartered in St. Louis, the Eighth Federal Reserve District covers all of Arkansas, most of Missouri, and parts of Illinois, Indiana, Kentucky, Mississippi and Tennessee.

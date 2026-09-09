@@ -1,0 +1,34 @@
+Data appendix for brief 03 (EPI analysis of CPS basic monthly microdata, EPI CPS Extracts v2026.4.13; interpretation removed)
+
+Definitions: young college graduates = ages 22–27 with only a four-year college degree (currently enrolled included). 2026 = 12-month average April 2025–March 2026.
+
+Table A. Employment shares by occupation, 2026 (young college graduates 22–27 / all graduates / young noncollege 22–27)
+Professional and related: 42.1% / 34.8% / 10.7%
+Management, business, and financial: 20.7% / 29.8% / 6.5%
+Services: 12.5% / 8.7% / 26.8%
+Office and administrative support: 9.9% / 9.4% / 11.8%
+Sales and related: 7.9% / 9.1% / 11.4%
+Farming, construction, installation, and production: 4.3% / 5.1% / 21.5%
+Transportation and material moving: 2.7% / 3.1% / 11.3%
+Derived: 62.8% of young college graduates in professional + management/business/financial; 64.5% of all graduates; 48.3% of young noncollege in services + farming/construction/installation/production.
+
+Table B. Percent change in employment by occupation (change since 2019 / change since 2023)
+Professional and related: 9.7% / 3.1%
+Management, business, and financial: 19.2% / 4.9%
+Services: 1.4% / 6.2%
+Office and administrative support: -7.2% / 2.9%
+Sales and related: -10.2% / -0.4%
+Farming, construction, installation, and production: -3.7% / -1.5%
+Transportation and material moving: 19.1% / 0.6%
+Derived: top four occupations for growth since 2023 account for 85% of young college graduate employment.
+
+AI exposure (Gimbel, Kendall & Kulsakdinun PCA score, z-score based, centred at 0 = unweighted mean across occupations; data pooled April 2022–March 2026; scores above 4 plotted at 4+):
+Overall workforce mean: 0.23
+All college graduates mean: 1.07
+Young college graduates mean: 1.00
+Young noncollege workers mean: -0.61
+Professional and office/administrative support occupations: higher exposure; production, transportation, service occupations: lower exposure.
+
+Unemployment: both young college graduates and young noncollege workers experienced similar increases in unemployment over the last two to three years; employment-rate trends consistent across the two groups (see first post in series).
+
+New York Fed underemployment tracker: share of recent college graduates in jobs not requiring a degree ticked up slightly over three years but remains below the post-Great-Recession level and below the 2017 level.

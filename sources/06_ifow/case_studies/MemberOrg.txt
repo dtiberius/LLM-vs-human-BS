@@ -1,0 +1,75 @@
+How a not-for-profit navigated the generative AI middle ground through co-creation (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/non-profit-ai/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+Profile
+
+This case study focuses on a medium-sized not-for-profit membership organisation, referred to here as MemberOrg. To support this research, MemberOrg formed a cross-functional working group of five people, mostly senior leaders with remits covering HR, legal, governance, IT and data.
+
+Operational context
+
+MemberOrg is a values-driven organisation committed to transparency and co-creation. Since 2023, this ethos has been formalised through an employee consultation forum, ensuring employees from every department had a direct voice in senior leadership and board decisions. As MemberOrg's HR director explained: "This [enables] … regular refinement on activity and objectives to ensure they are agile and manageable across teams." This collaborative culture has fostered high levels of employee autonomy and long-term retention. Employees within and outside the working group reported being encouraged to develop and take on different roles in MemberOrg.
+
+This environment of high agency has sparked a 'self-led' approach to AI. A survey designed by IFOW revealed that two-thirds of the workforce were using general-purpose generative AI tools in their daily work, primarily for retrieving information. More advanced users were independently building custom agents to automate workflows, such as fee estimation and automated email redirection.
+
+Despite this widespread grassroots uptake, MemberOrg lacked a formal AI governance framework. No tools had been officially integrated into organisational processes, and no paid licences had been provided. Other than a set of AI use guidelines published in 2023, there was no designated oversight to guide safe or strategic usage.
+
+Challenge
+
+When the research began, MemberOrg's AI strategy relied solely on a set of AI use guidelines, which functioned as a compliance checklist. They placed the full burden of responsibility on the individual to self-assess for accuracy, confidentiality and intellectual property risks.
+
+This top-down approach created three hurdles for the organisation:
+
+- Practical disconnect. The guidelines were broad and lacked examples of typical organisational tasks. Without a formal space to discuss or document AI usage, there was no shared understanding of how workflows were evolving.
+- Uneven uptake. While some employees experimented extensively, others avoided using any general-purpose generative AI tool due to compliance anxiety. However, the working group noted that while AI could ease administrative burdens, it might be ineffective or too risky for more complex work performed by some teams.
+- Top-down barrier. Despite MemberOrg's commitment to co-creation, employees were not involved in drafting the AI use guidelines. Drafted by the legal team and shared with the senior leadership, the guidelines were a 'panic response' to the proliferation of general-purpose generative AI tools. This lack of consultation stifled the widespread experimentation needed to find genuine efficiency gains.
+
+What they did
+
+To address these challenges, the working group and IFOW hosted a half-day workshop in September 2025. Attended by half of the workforce – spanning all teams and seniority levels – the workshop aimed to reignite dialogue on generative AI that had stalled since an initial workshop and survey in 2024. The objectives of the workshop were three-fold:
+
+1. Identify use cases and associated risks and impacts.
+2. Critically reflect on the existing AI use guidelines.
+3. Co-design interventions to maximise opportunities and address challenges.
+
+The workshop surfaced a clear desire to automate mundane and repetitive tasks. However, employees were discerning about where AI added true value. Some uses were deemed too low value to justify the environmental cost of the energy required, while others were deemed too high risk due to inherent AI bias and inaccuracies.
+
+Employees also highlighted several significant people impacts of using AI:
+
+- Burden of oversight. Constantly checking accuracy can increase monotony and lead to vigilance fatigue and a drop in productivity.
+- Mentorship gap. AI could disrupt the knowledge transfer from experienced employees to new and junior employees, as well as the ability to learn foundational skills by doing.
+- Risk of process chaos. Employees warned that if AI agents were built without clear documentation and training, MemberOrg risked losing vital knowledge when key employees leave.
+
+Consequently, employees asked for 'safe spaces' to experiment as well as practical, organisation-wide guidance rather than simply being told to 'go and use it'. An anonymous poll at the workshop revealed only 47% of participants referred to the AI use guidelines, confirming they weren't fit for purpose. Employees criticised the guidelines as too abstract and subjective, noting they also lacked consideration for environmental sustainability – one of MemberOrg's core values.
+
+To move forward, the working group opted for a series of immediate, practical steps:
+
+- Formally vetted tool. Assign Microsoft Copilot as the vetted organisational tool and give paid licences to all employees.
+- Process mapping. Conduct an exercise to identify how Copilot fits into existing workflows.
+- Training and support. Provide Copilot training for everyone and launch weekly surgeries to create a safe space for collaborative troubleshooting and experimentation.
+- Strategic guardrails. Create a checklist for vetting new use cases – assessing job impact, policy compliance and ethical risks – and circulate an updated AI use guidelines for employee feedback. The working group that was set up for this research will now become a permanent forum for decision-making on AI.
+
+Outcomes
+
+By moving from a reactive and top-down mandate – to contain unregulated self-led usage – to a co-creative process, MemberOrg has established a more stable middle ground. This approach allowed the organisation to surface opportunities and risks directly from employees. It clarified broad restrictions with a structured task-by-task assessment of a formally vetted tool.
+
+The collaborative nature of this research has strengthened MemberOrg's existing culture of co-creation and shared responsibility. By implementing practical, supportive steps, the organisation has generated significant internal momentum, addressing compliance anxiety felt by some employees and replacing it with a sense of collective ownership.
+
+On culture alignment, the HR director noted: "We know autonomy is important … skill variety is important … people want to hear the authentic voice, not the voice of AI, all of these things have come out in a way where perhaps we hadn't consciously thought about it". Reflecting on the momentum built, a working group member added: "I can see the voice of different people … coming through and the fact that we've co-created this … we're getting the momentum … we have got that enthusiasm within the team. People are keen to see what's going to happen next."
+
+MemberOrg has moved toward a problem-solving mindset by identifying where AI adds value rather than using 'AI for AI's sake', as one working group member had quipped. To ensure efficiency gains are mutually beneficial, the organisation would, in future, aim to:
+
+- Conduct collaborative process mapping, so that changes to processes are only implemented with the agreement of everyone affected, supported by a team that's aware of the vetted tool's functionalities.
+- Empower experimentation by providing employees with dedicated time to experiment, despite the capacity constraints that originally motivated the interest in AI.
+
+As MemberOrg is in the early stages of integrating AI into its employees' daily work, the working group remained vigilant about the human cost of increased productivity. A key concern was that increased working speed with AI might lead to unsustainable growing expectations and eventual exhaustion.
+
+One working group member cautioned about the risks of burnout that could arise from "having a tool that … may lead to … compressing time frames in your mind of how long a job or task might take … previously I might push a task into the next quarter. But now schedule it for next week … I've now also got an expectation on myself about how much more I can get done, and potentially this will detrimentally alter my view on how (fast) others, who have access to the same tools, can get (work) done".
+
+Learning points
+
+- Adopt a task-specific approach to finding value. Avoid using 'AI for AI's sake'. Because teams have different levels of risk tolerance, success depends on identifying tasks that deliver genuine value. Assessing AI on a task-by-task basis helps identify benefits while protecting foundational skills development and mentoring relationships.
+- Build trust through clarity. Vague guidelines stifle experimentation and fuel compliance anxiety. Clarify rules with clear examples and communication. Ensure responsibility for overseeing systems and mitigating risks is clearly assigned to management and signposted to employees.
+- Create protected spaces for employee-led evaluation. Employees know their jobs and are best placed to evaluate AI's utility. To do this effectively, they need more than just an AI tool. They need protected time to experiment and direct channels embedded into everyday operations to help shape decisions on AI.
+- Foster peer-to-peer learning to prevent process chaos. Facilitating peer-to-peer surgeries creates a space for collaborative troubleshooting and experimentation. This prevents knowledge silos and ensures vital process documentation stays within the organisation, even when key individuals leave.
+- Evaluate impacts holistically. Efficiency is not always a positive gain. Impact assessments must look beyond the time saved and consider the human tax. This includes vigilance fatigue – the burden of constant checking – and unsustainable productivity expectations that erode employee autonomy and long-term wellbeing.

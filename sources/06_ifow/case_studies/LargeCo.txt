@@ -1,0 +1,53 @@
+How a lack of employee participation threatened return on AI investment (CIPD/IFOW case study, 2026)
+Source: https://www.cipd.org/en/knowledge/case-studies/return-on-AI-investment/
+Fidelity: text returned by the fetch tool as verbatim body text; spot-check against the page before quoting.
+
+This case study focused on a large organisation, referred to here as LargeCo, which employed thousands of people in corporate functions and frontline operations. LargeCo outsourced some HR activities to an offshore third-party provider.
+
+Among the extensive range of AI tools in use at LargeCo, a generative AI writing assistant was chosen as the focus of this research. The AI writing assistant was procured from a technology provider and rolled out within one of LargeCo's teams in early 2024.
+
+To support this research, LargeCo formed a cross-functional working group featuring senior leaders and colleagues from enterprise technology, HR, people, and sales functions. The goal of this group was to engage in action research, encouraging people to think critically about the implications of AI on people, their jobs, and how they work together. This effort was initially led by an AI people lead, whose remit was to build people's 'capacities and skills' and embed the 'responsible dimension' when people decide which tasks to automate.
+
+However, the project faced challenges with internal buy-in. When the AI people lead left partway through the research, IFOW could not establish meaningful contact with the chief of staff who had taken over their remit. As such, this case study pivoted from an action research study to an observational case study.
+
+LargeCo operated in a business-to-business (B2B) environment with a heavy focus on risk mitigation through cybersecurity and data privacy. AI implementation at LargeCo was fast-paced – IFOW identified at least 10 tools already in use or under consideration, mostly generative AI. While LargeCo was conducting an internal audit to gain full oversight of these tools, AI agents were being deployed to automate some administrative tasks.
+
+The drive behind this speed was the belief that AI can enable growth without increasing overheads. As one senior technology leader said: "The way we improve our profit margin is by growing our top-level growth, but without increasing the operating cost… we can double the size of our business without doubling the size of the team". Beyond mere efficiency, the working group noted that LargeCo aimed to become the industry leader in 'secure' and 'trustworthy' AI systems.
+
+To manage this, LargeCo developed an AI policy centring on privacy, transparency, fairness and ethical oversight. LargeCo also created a risk-based framework for AI implementation to align with the EU AI Act. Under this Act, applications such as emotion recognition in the workplace are strictly prohibited.
+
+Approvals for specific AI use cases went through a governance and control board, primarily tasked with corporate risk identification and management. This board ensured that AI deployment and use complied with the organisation's responsible AI policy. The board included leaders from legal, digital and data privacy, with HR and L&D represented on the board in an advisory capacity. While senior leaders within individual teams could decide to implement low-risk AI, any high-risk AI use cases were flagged for the board's decision and tracked through a dedicated risk register.
+
+The cross-functional board was designed to prevent AI from being siloed and to ensure its impact was 'visible and understood'. While the board received praise, some working group members noted that discussions were skewed towards technical risks at the expense of 'people impacts'. Although L&D efforts were underway to upskill the workforce, there was a clear need for a more proactive approach to job redesign and strategic workforce planning.
+
+This gap in planning was often discovered too late. As one working group member explained: "…we've had a couple (of automations) where we've gone live and it has led to some redundancy consultations… how do we … get ahead of the inevitable conversations … because what we learned from the first couple of experiences was that it was too late in the journey that we started to talk to people about, actually, what does this mean for their job."
+
+Furthermore, internal data revealed a lack of trust regarding the responsible use of AI. Employees felt excluded from the process, with a small percentage aware of the organisation's strategy. This lack of transparency was mirrored in the decision-making processes, which lacked any form of employee participation. Without employee participation, any AI implementation faced a growing trust gap that threatened long-term success.
+
+The AI writing assistant was introduced to reduce drafting time, improve quality and mitigate the risks of shadow AI. As the head of one of LargeCo's core teams noted: "if you want to use AI, you can, but please use this one … because we've got all the kind of checks and balances in place. It's a secure environment. It draws from our own content."
+
+As part of the rollout, the technology provider trained one of LargeCo's teams and periodically surveyed team members' views of the AI writing assistant. The survey focused on comfort and confidence with the AI writing assistant. But the questions were framed positively and offered little space to reflect on negative impacts. For example, employees were asked whether they agreed with statements like '[It] makes my work more enjoyable'.
+
+An additional optional survey, designed by IFOW, was deployed by LargeCo to understand the team's views of the writing assistant. However, LargeCo removed questions on the team members' current experiences of work – such as level of mastery, autonomy and job demands – as these were deemed not relevant. This reflected a broader lack of attention to how this AI writing assistant reshaped job characteristics. Furthermore, LargeCo was concerned that a longer survey, duplicated questions in their existing employee surveys, would lower the response rate.
+
+Nonetheless, the survey designed by IFOW surfaced a range of views, which underscored the importance of preserving foundational skills:
+
+Broadening capability. One respondent noted that the AI writing assistant "broadened my ability to complete certain written tasks that I would have otherwise struggled."
+
+Unwanted workload and skill erosion. Others were concerned about additional administrative burden and losing their critical thinking skills: "It has created a lot of administration tasks … I'm wary of using it too much and impacting my ability to think for myself".
+
+Experience as a filter. An experienced employee highlighted that success with the AI writing assistant required foundational knowledge: "… due to my vast experience of drafting documents from scratch over many years. … (I) know what the answer should look like, and importantly, to remove the inconsistencies and inaccuracies that AI will undoubtedly produce".
+
+While the AI writing assistant wasn't intended to reduce headcount, it was intended to reduce the need to hire 'specialist technical knowledge'. A working group member expected an impact on junior roles "because actually (it) can do some of the work done by junior resource".
+
+Even though a small group of users saw time savings, the overall impact was more limited than leaders had claimed. Leaders suggested that it was possible to generate essential documents with AI in half a day. By the end of the research, however, the AI writing assistant faced being dropped due to low return on investment and an unenthusiastic uptake. This was partly because a superior alternative that embedded into LargeCo's information architecture was being rolled out. Reflecting on the experience, a working group member noted: "What this whole process ... has taught me is that you cannot force people to use a tool that they are not getting value out of".
+
+Learning points
+
+Strategic governance vs practical impact. While cross-functional boards help surface the diversity of impacts, simply having HR leaders is not enough to keep the people impacts central to the organisation's strategy. Managers and people professionals need to be trained on how to steer organisational change and job redesign proactively.
+
+Trust gap and employee participation. Failing to meaningfully involve employees in AI governance breeds distrust and concern regardless of official narratives on responsible use. One-way surveys about attitudes towards AI are not an adequate replacement for meaningful dialogue.
+
+Neutrality in assessment. Technology providers have a commercial interest in proving their tools are successful. Defaulting to provider-led surveys to assess employee views will fail to paint a holistic picture.
+
+Utility over training. No amount of tool-specific AI training will lead to buy-in if employees don't see a genuine benefit. Furthermore, if the tool's primary purpose is to automate entry-level tasks, it hampers efforts to develop foundational skills for junior employees, who may lose the opportunity to learn by doing.

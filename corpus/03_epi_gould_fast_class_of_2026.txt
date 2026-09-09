@@ -1,0 +1,96 @@
+What occupation data show about AI and the young college graduate workforce: Class of 2026
+
+Key takeaways:
+The vast majority (85%) of young college graduates work in occupations that have seen strong employment growth in recent years.
+Young college graduates, like college graduates in general, are more likely to work in AI-exposed occupations than the overall workforce—and considerably more likely than young noncollege workers.
+But both young college graduates and young noncollege workers have experienced rising unemployment over the last three years, suggesting AI is not likely to be driving labor market weakness.
+
+In the first blog post of our Class of 2026 series, we showed that the strong labor market for young college graduates of the early 2020s had begun softening in recent years. A growing share of young college graduates are seeking employment, but because their employment rates have not kept up with this job search, their unemployment rate has risen faster than the overall rate. The second blog post in the series discussed the industries where young college graduates worked. We found that recent graduates work in growing industries, but are forced to enter a weakened labor market with less job turnover, deteriorating their ability to break in. Young college graduates work in the tech sector at a similar rate to college graduates, and there is no clear evidence that tech sector employment is significantly decreased despite warnings about the advancement of AI.
+
+In this blog post, we delve deeper into the occupations where young college graduates are likely to work.1 We examine whether it has been relatively more difficult to secure employment in these fields as the labor market has weakened. We also scour the data for signs that exposure to AI-related occupations may disproportionately affect the prospects for young college graduates as they enter the labor market.
+
+Most young college graduates work in occupations with strong growth
+
+Over 60% of young college graduates work in professional and related occupations or management, business, and financial occupations. Figure A displays the share of employment in each occupation or occupation grouping for young college graduates ages 22 to 27, all college graduates, and young workers without a four-year college degree. Occupations in the figure appear in order of the share of young college graduates employed in each, from largest to smallest. Over half (62.8%) of young college graduates work in professional, management, business, and financial occupations. Workers of any age with a college degree are slightly more likely to work in those two occupations (64.5%), though more likely in management occupations than professional occupations. On the other hand, nearly half (48.3%) of young noncollege workers are in service occupations or farming, construction, installation, and production occupations.
+
+FIGURE A
+Most young college graduates work in professional, management, business, and financial occupations
+Employment shares by occupation for select age and education groups, 2026
+
+	Young college graduates (22–27)	All graduates	Young noncollege (22–27)
+Professional and related	42.1%	34.8%	10.7%
+Management, business, and financial	20.7%	29.8%	6.5%
+Services	12.5%	8.7%	26.8%
+Office and administrative support	9.9%	9.4%	11.8%
+Sales and related	7.9%	9.1%	11.4%
+Farming, construction, installation, and production	4.3%	5.1%	21.5%
+Transportation and material moving	2.7%	3.1%	11.3%
+
+Notes: Farming, construction, installation, and production occupations aggregate the following major occupations, which together sum to less than 5% of employment for young college graduates: farming, fishing, and forestry occupations; construction and extraction occupations; installation, maintenance, and repair occupations; and production occupations.
+
+Source: EPI analysis of the Current Population Survey basic monthly microdata, EPI Current Population Survey Extracts, Version 2026.4.13, https://microdata.epi.org.
+
+Figure B shows the change in employment in each occupation between 2019 and 2026 and between 2023 and 2026, arranged in the same order as Figure A for comparison. Since 2019, management, business, and financial occupations and transportation and material moving occupations experienced the most growth, followed by professional and related occupations.
+
+The top four occupations for job growth since 2023 account for 85% of young college graduate employment. The occupations with employment losses over the last three years were more likely to employ young noncollege workers than college graduates. It doesn't appear that the occupations where young college graduates tend to work have been hit particularly hard in the last couple of years.
+
+FIGURE B
+Young college graduates work in occupations with strong growth
+Percent change in employment by occupation, since 2019 and 2023
+
+Occupations	Change since 2019	Change since 2023
+Professional and related	9.7%	3.1%
+Management, business, and financial	19.2%	4.9%
+Services	1.4%	6.2%
+Office and administrative support	-7.2%	2.9%
+Sales and related	-10.2%	-0.4%
+Farming, construction, installation, and production	-3.7%	-1.5%
+Transportation and material moving	19.1%	0.6%
+
+Notes: Farming, construction, installation, and production occupations aggregate the following major occupations, which together sum to less than 5% of employment for young college graduates: farming, fishing, and forestry occupations; construction and extraction occupations; installation, maintenance, and repair occupations; and production occupations. Data are for the 12-month average of pooled data ending in March of each given year (e.g., 2026 refers to pooled data from April 2025 through March 2026).
+
+Source: EPI analysis of the Current Population Survey basic monthly microdata, EPI Current Population Survey Extracts, Version 2026.4.13, https://microdata.epi.org.
+
+While there has been job growth among occupations that tend to be filled by young college graduates, some worry about an increase in labor market underutilization, i.e., when workers with a college degree wind up working in jobs that typically don't require one. Using O*NET data2, the New York Federal Reserve tracks this type of labor market underutilization. While the share of recent college graduates working at a job that doesn't require a college degree has ticked up slightly over the last three years, it remains lower than it was for workers who graduated in the aftermath of the Great Recession. Even as late as 2017, young college graduates were working at these noncollege jobs at higher rates than they are today.
+
+While college-educated workers are in more AI-exposed occupations, this does not appear to be driving labor market weakness
+
+Much has been written in the last few years about AI exposure and its impact on the labor market. Using data from ADP, a large payroll processing company, Brynjolfsson, Chandar, and Chen find that entry-level workers in AI-exposed occupations—particularly AI uses that automate, not augment their work—have experienced an employment decline larger than that of older workers in the same occupations and all workers in less exposed occupations, explaining some of their stagnant overall employment growth. Atkinson and Yamco also find that declines in AI-exposed occupations are tied to lack of hiring rather than layoffs, hitting harder for young people attempting to enter the labor market. The second blog post in our series noted an across-the-board slowdown in hiring—which hurts the job prospects of all young workers, not only those in the industries most affected by AI.
+
+On the other hand, researchers at the Yale Budget Lab argue that there has only been a slight increase in the shift in the occupation mix of employment, which would be evidence of AI automating jobs. They find that high AI-exposed occupations—determined by the top quintile of AI exposure—have yet to show declining employment, so no "dissimilarity" between young and older college graduates in terms of occupation mix has materialized. Raderman also finds that there isn't strong evidence that AI is responsible for weaker labor market outcomes for recent college graduates, using evidence from Tillerman on college majors paired with change in unemployment.
+
+Given the variation in assessments, we wanted to take a look at the data ourselves. Gimbel, Kendall, and Kulsakdinun have done an admirable job of summarizing the literature that attempts to classify AI exposure and propose a weighted aggregate measure of AI exposure.3 We employ this measure to investigate whether young college graduates may be more likely to be at risk in AI-exposed occupations than other workers.
+
+In Figure C, we display the AI exposure of occupations weighted by the share of the entire workforce in each occupation. Moving from the left to the right on the figure increases AI intensity. For instance, professional and office & administrative support occupations are more AI exposed (to the right), while production, transportation, and service occupations are less AI exposed (to the left). Overall, the mean AI exposure score is 0.23.4
+
+FIGURE C
+AI-exposure varies across occupations
+AI-exposure of occupations weighted by the number of workers in each occupation
+
+Note: Data is pooled from April 2022 - March 2026. The PCA score scale is centered at 0, the unweighted mean across occupations. PCA scores above 4 are plotted at 4+ for a more clear picture of most occupations.
+
+Source: EPI analysis of the Current Population Survey basic monthly microdata, EPI Current Population Survey Extracts, Version 2026.4.13. AI exposure determined by Gimbel, Kendall, and Kulsakdinun, who create an aggregate measure by detailed occupation using six key research studies and matched to the Census occupation classification system.
+
+In Figure D, we show the distribution of select demographic groups by occupation and AI exposure. As with earlier analysis, we compare young college graduates with all college graduates and young noncollege workers, in separate panels in the figure.
+
+According to the aggregate measure, college graduates do have higher AI exposure in the labor market than the overall workforce. It is clear there is more mass in the direction of higher exposure (to the right) and their mean exposure is 1.07, higher than that of workers writ large. But the AI exposure of young college graduates isn't any higher than that of college graduates in general. Mean AI exposure among young college graduates is 1.00.
+
+FIGURE D
+College grads, including young college grads, are more likely to be employed in AI-exposed occupations
+AI-exposure of occupations weighted by number of workers in each occupation, by demographic group
+
+Note: Data is pooled from April 2022 - March 2026. The PCA score scale is centered at 0, the unweighted mean across occupations. PCA scores above 4 are plotted at 4+ for a more clear picture of most occupations.
+
+Source: EPI analysis of the Current Population Survey basic monthly microdata, EPI Current Population Survey Extracts, Version 2026.4.13. AI exposure determined by Gimbel, Kendall, and Kulsakdinun, who create an aggregate measure by detailed occupation using six key research studies and matched to the Census occupation classification system.
+
+What is striking is that the AI exposure among young college graduates (1.00) is considerably higher than that of young noncollege workers (-0.61). If AI was driving labor market outcomes, we'd expect young college graduates to fare worse in today's economy, e.g., see larger declines in employment or faster increases in unemployment. But, when we compare unemployment rates as we did in the first blog post of this series, both groups experienced similar increases in unemployment over the last two to three years. Trends in employment rates were also consistent across these groups.
+
+Since the weakening labor market is hitting both young college and noncollege workers alike, it's hard to argue that AI is uniquely causing job losses for new labor market entrants graduating from college now or in recent years. These findings are consistent with the literature, as there is currently no consensus about the effects of working in AI-exposed occupations on employment thus far.
+
+1. Throughout this brief, we define young college graduates as people between the ages of 22 and 27 with only a four-year college degree. Unlike similar analyses of young workers, we do not exclude young college graduates who are currently enrolled in school, but the results here are robust either way. Unless otherwise noted, data for 2026 represent a 12-month average from April 2025 through March 2026 for the most up to date and reliable estimates, which removes seasonality and increases sample sizes.
+
+2. O*NET or the Occupational Information Network provides the largest up-to-date database of information about workers sorted into detailed occupations. Information provided is about skills, abilities, education, training, and more.
+
+3. We use an updated summary AI exposure PCA score (principal component analysis weighted standardized z-score) provided by the authors, May 13, 2026.
+
+4. The PCA score scale is centered at 0, the unweighted mean across occupations.

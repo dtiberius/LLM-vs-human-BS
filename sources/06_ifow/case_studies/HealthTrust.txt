@@ -1,0 +1,63 @@
+Engaging staff: an NHS trust plans to roll out an HR chatbot (IFOW case study 4, from "Good Work Design and AI Adoption – Action Research in Eight Cross-Sector Case Studies", May 2026)
+Source PDF: https://cdn.prod.website-files.com/64d5f73a7fc5e8a240310c4d/6a1d5d71fa8804b920e291b2_Good%20Work%20Design%20-%20Case%20Studies%20-%20FINAL%202.pdf
+Fidelity: text returned by the fetch tool as verbatim; spot-check against the PDF before quoting.
+
+Profile
+
+This case study focused on an NHS Foundation Trust in England, referred to here as HealthTrust. HealthTrust employed over 5,000 people, including 80 in the HR and organisational development (OD) team. It looked at how an NHS Foundation Trust engaged with staff on plans to deploy an AI-enabled HR chatbot.
+
+A working group of 15 HR and OD professionals was formed to support the action research process. The working group was led by the senior workforce delivery professional who led on the procurement of the HR chatbot.
+
+Operational context
+
+HealthTrust had an AI use policy in place as well as a cross-functional AI steering group. The people in the AI steering group came from a range of departments, including digital, information and medical ethics. The AI steering group's role was to make sure any AI solutions they picked solved real problems without overspending.
+
+HealthTrust's plan to roll out an HR chatbot fits with the UK government's 10 Year Health Plan for England plan to "liberate staff from their current burden of bureaucracy and administration". AI and other technologies will enable the NHS to "personalise care, improve outcomes, increase productivity and boost economic growth". "There will be fewer staff in the NHS in 2035 … [but] those staff will be better treated, have better training, [have] more exciting roles … and so they will each achieve much more".
+
+The plan to roll out came after a study to make sure the HR chatbot was the right fit for Health Trust. The team already knew that it could work from a similar past project. Staff were happy with the quick and reliable answers from another virtual assistant that was deployed.
+
+Challenge
+
+HealthTrust's HR and OD team was stretched thin by thousands of repetitive questions every month and the numbers were growing. Staff mainly asked about annual leave, occupational health appointments, policy details, and recruitment processes. As HealthTrust operated round the clock, these enquiries would come in at any time.
+
+Although staff could access help guides and resources through HealthTrust's intranet, they preferred to contact the HR and OD team directly by email or phone. But the HR and OD team had limited capacity to respond immediately, especially at night and at weekends.
+
+What they did
+
+To lower the workload, HealthTrust decided to find an HR chatbot that could answer routine questions automatically. HealthTrust teamed up with other regional NHS Trusts to buy the HR chatbot together to get a better deal and save money.
+
+A four-part roadmap was created so that each trust could choose to launch the HR chatbot in stages. At first, the HR chatbot would simply answer basic questions about annual leave and policies. Eventually, it would be able to handle more advanced tasks like pulling data from other systems automatically and guiding staff to complete forms.
+
+During the procurement process, HealthTrust knew they also needed to understand how the HR chatbot would change the team's daily work. In interviews, working group members raised big questions on what staff would do with the free time saved by the HR chatbot, as well as what new skills they'd need to learn. They wanted to make sure no one was left behind.
+
+Through the action research with IFOW, HealthTrust captured how the HR and OD team felt about the new HR chatbot and how it might affect their daily work. HealthTrust also met with different staff to discuss how the chatbot would change the way the team runs.
+
+Senior managers that IFOW interviewed emphasised the importance of being honest with staff about new technology. Information needs to be shared, and the benefits clearly communicated to help with any worries. Interviews with non-frontline staff in the operations, HR, and OD teams revealed mixed feelings. While some were eager to see how the HR chatbot could help them, others were sceptical about whether it would work in a complex organisation like HealthTrust.
+
+Findings from IFOW's survey highlighted the HR and OD team's top priorities for bringing in new technology responsibly:
+
+- Recognise when AI shouldn't be used, for example, in highly sensitive or complex situations.
+- Make sure all staff are aware of the AI tools used by the HR and OD team.
+- Address concerns about job security early by having meaningful staff consultation. AI shouldn't be used just to cut jobs. Instead, any money saved should be put back into training the team with new skills.
+- There needs to be robust data governance.
+- Provide comprehensive training on using new technologies. 64% of respondents reported not receiving any relevant staff-led or self-led training.
+
+Outcomes
+
+After speaking with 21 staff from the HR and OD team, HealthTrust identified three ways to better prepare staff for the upcoming shift to using the HR chatbot.
+
+Firstly, there needs to be better training on digital tools in general across HealthTrust. Even though the HR chatbot will work through familiar channels like the phone, many people still struggle with basic digital skills. Improving these basics is the first step toward helping staff understand and use AI confidently. The HR and OD team noted that HealthTrust needs to map out everyone's current skills, and that the digital education and people development teams should work more closely together to spot any skills gaps. This teamwork will make sure HealthTrust has the right skills to meet its main digital goals.
+
+Secondly, the team emphasised the need to plan for changes in their daily work. As the HR chatbot takes over simple queries, staff will shift toward checking and improving its answers. This raises some big questions. Will staff still feel as connected to their work if they spend less time talking directly to colleagues? There is also a worry that junior staff might lose out on learning by doing if the chatbot takes over entry-level tasks. To stay on top of this, the Trust plans to use staff surveys more often to check how staff are adapting to these changes and make sure they still feel supported.
+
+Finally, the team highlighted that success depends on clear and constant communication. Introducing new technology must be people-centred and not just about the software.
+
+As one member of staff said: "This [chatbot] isn't necessarily a pure IT project...Actually, that's the main reason why AI and digital projects fail … because of the people side … Often the bulk of the resource goes into the tech side and less on the people side. But we really want to make this work, … we could be doing some work now to start to get the managers of our admin teams ready." Staying open and sharing information builds trust, and it allows managers to address any worries or fears staff might have.
+
+Learning points
+
+Build AI literacy and confidence early. For an HR chatbot to work well, the team needs to have the skills to oversee it. Staff must feel confident checking the HR chatbot's answers and fixing any mistakes to ensure the information is accurate.
+
+Watch how jobs change. As the HR chatbot is rolled out, keep a close eye on how daily tasks are shifting. A people-centred approach means regularly checking in on how staff feel about their new responsibilities and what new skills they might need.
+
+Listen before you implement. The time before the HR chatbot goes live is the most important. Use this phase to listen to a wide range of staff voices. Their views will help you build a solid plan for training, communication and other support that works for staff.
